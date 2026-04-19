@@ -1,0 +1,43 @@
+cv_id,person_ref,person_name_cn,entry_mode,official_title,rank,tenure,location_ref,time_ref,event_type,source_book,source.chapter,originalsource_sentence
+cv_yao_zui_01,meso_yao_zui,姚最,,,,,loc_changan,,Travel,《续画品》,注释,年十九随僧垣入关
+cv_yao_zui_02,meso_yao_zui,姚最,Examination,麟趾殿学士,,,loc_changan,,Official_Post,《续画品》,注释,"世宗盛聚学徒, 校书于麟趾殿, 最亦预为学士"
+cv_yao_zui_03,meso_yao_zui,姚最,,齐王宪府水曹参军,,,loc_changan,,Official_Post,《续画品》,注释,"俄授齐王宪府水曹参军, 掌记室事"
+cv_yao_zui_04,meso_yao_zui,姚最,,北绛郡公,,,loc_changan,,Official_Post,《续画品》,注释,"既免丧袭爵, 北绛郡公"
+cv_yao_zui_05,meso_yao_zui,姚最,,蜀王秀府司马,,,loc_yizhou,,Official_Post,《续画品》,注释,"俄转蜀王秀友, 秀镇益州, 迁秀府司马"
+cv_yao_zui_06,meso_yao_zui,姚最,,,,,loc_changan,,Life_Event,《续画品》,注释,"最竟坐诛, 时年六十七"
+cv_xiao_yi_01,meso_xiao_yi,萧绎,,湘东郡王,,,loc_jiangling,,Official_Post,《续画品》,注释,初封湘东郡王
+cv_xiao_yi_02,meso_xiao_yi,萧绎,,皇帝,,,loc_jiangling,,Official_Post,《续画品》,注释,即位于江陵
+cv_xiao_yi_03,meso_xiao_yi,萧绎,,,,,,,Official_Post,《续画品》,湘东殿下,"斯乃听讼部领之隙, 文谈众艺之余"
+cv_liu_pu_01,meso_liu_pu,刘璞,Family_Tradition,,,,,,Life_Event,《续画品》,刘璞,少习门风
+cv_shen_biao_01,meso_shen_biao,沈标,,,,,,,Official_Post,《续画品》,沈标,"性尚铅华, 甚能留意"
+cv_xie_he_01,meso_xie_he,谢赫,,,,,,,Official_Post,《续画品》,谢赫,"右写貌人物, 不俟对看, 所须一览, 便工操笔"
+cv_mao_huixiu_01,meso_mao_huixiu,毛惠秀,,待诏秘阁,,,,period_qi,Official_Post,《续画品》,注释,南朝齐永明中待诏秘阁
+cv_mao_huixiu_02,meso_mao_huixiu,毛惠秀,,,,,,,Official_Post,《续画品》,注释,"武帝欲北侵时, 命其画汉武帝北伐图"
+cv_xiao_ben_01,meso_xiao_ben,萧贲,,湘东王法曹参军,,,loc_jiangling,,Official_Post,《续画品》,注释,曾任湘东王法曹参军
+cv_xiao_ben_02,meso_xiao_ben,萧贲,,,,,,,Life_Event,《续画品》,注释,后坐事系狱饿死
+cv_shen_can_01,meso_shen_can,沈粲,,,,,,,Official_Post,《续画品》,沈粲,"专工绮罗, 屏障所图, 颇有情趣"
+cv_zhang_sengyao_01,meso_zhang_sengyao,张僧繇,,,,,,,Official_Post,《续画品》,张僧繇,"右善图塔庙, 超越羣工"
+cv_zhang_sengyao_02,meso_zhang_sengyao,张僧繇,,右将军,,,,period_liang,Official_Post,《续画品》,注释,"官至右将军, 吴兴太守"
+cv_zhang_sengyao_03,meso_zhang_sengyao,张僧繇,,吴兴太守,,,loc_wuxing,period_liang,Official_Post,《续画品》,注释,"官至右将军, 吴兴太守"
+cv_zhang_sengyao_04,meso_zhang_sengyao,张僧繇,,,,,loc_yicheng_temple,,Official_Post,《续画品》,注释,"曾于一乘寺画凹凸花, 加强晕染法"
+cv_zhang_sengyao_05,meso_zhang_sengyao,张僧繇,,,,,loc_dingshui_temple,,Official_Post,《续画品》,注释,定水寺殿内东壁北二神...张僧繇画
+cv_lu_su_01,meso_lu_su,陆肃,Family_Instruction,,,,,,Life_Event,《续画品》,陆肃,"早籍趋庭之教, 未尽敦阅之勤"
+cv_maoleng_01,meso_mao_leng,毛稜,,,,,loc_yingyang_yangwu,,Life_Event,《续画品》,毛稜,"惠远之子...若比方诸父, 则床上安床"
+cv_jiao_baoyuan_01,meso_jiao_baoyuan,焦宝愿,,春坊,,,loc_chunfang,,Official_Post,《续画品》,焦宝愿,"见赏春坊, 输奏薄伎"
+cv_jiao_baoyuan_02,meso_jiao_baoyuan,焦宝愿,Seek_Advice,,,,,,Life_Event,《续画品》,焦宝愿,"旁求造请, 事均盗道之法"
+cv_yuan_zhi_01,meso_yuan_zhi,袁质,,,,,,,Life_Event,《续画品》,袁质,"始逾志学之年, 便婴痛之病...苗而不实"
+cv_shi_sengzhen_01,meso_shi_sengzhen,释僧珍,Apprenticeship,,,,,,Life_Event,《续画品》,释僧珍 释僧觉,"珍, 蘧道愍之甥...弱年渐渍, 亲承训勗"
+cv_shi_sengjue_01,meso_shi_sengjue,释僧觉,Apprenticeship,,,,,,Life_Event,《续画品》,释僧珍 释僧觉,"觉, 姚曇度之子...弱年渐渍, 亲承训勗"
+cv_shi_sengjue_02,meso_shi_sengjue,释僧觉,,,,,loc_baima_temple,,Official_Post,《续画品》,注释,白马寺宝台样行于代
+cv_shijia_fotuo_01,meso_shijia_fotuo,释迦佛陀,,,,,loc_tianzhu,,Travel,《续画品》,注释,天竺人...初在魏
+cv_shijia_fotuo_02,meso_shijia_fotuo,释迦佛陀,,,,,loc_songshan_shaolin,period_sui,Travel,《续画品》,注释,"至隋, 隋帝于嵩山起少林寺, 至今房门上有画神"
+cv_shijia_fotuo_03,meso_shijia_fotuo,释迦佛陀,,,,,loc_lin_guo,,Official_Post,《续画品》,注释,有菻国人物图...传于代
+cv_wei_gong_01,meso_wei_gong,威公,,光宅寺僧,,,loc_guangzhai_temple,,Official_Post,《续画品》,释迦佛陀 吉底俱 摩罗菩提,光宅威公雅就好此法
+cv_xie_qian_01,meso_xie_qian,解蒨,,,,,,,Official_Post,《续画品》,解蒨,"通变巧捷, 寺壁最长"
+cv_xie_qian_02,meso_xie_qian,解蒨,,,,,loc_xianyi_guan,,Official_Post,《续画品》,注释,"咸宜观殿前东西二神, 解蒨画"
+cv_xie_qian_03,meso_xie_qian,解蒨,,,,,loc_dingshui_temple,,Official_Post,《续画品》,注释,余七神及下小神并解蒨画
+cv_shen_biao_02,meso_shen_biao,沈标,Apprenticeship,,,,,,Life_Event,《续画品》,注释,师事于谢赫
+cv_ji_baojun_01,meso_ji_baojun,嵇宝钧,,,,,,period_liang,Life_Event,《续画品》,嵇宝钧 聂松,"右二人无的师范, 而意兼真俗"
+cv_nie_song_01,meso_nie_song,聂松,,,,,,period_liang,Life_Event,《续画品》,嵇宝钧 聂松,"右二人无的师范, 而意兼真俗"
+cv_jidiju_01,meso_jidiju,吉底俱,,Foreign Bhikshu,,,loc_foreign,,Travel,《续画品》,释迦佛陀 吉底俱 摩罗菩提,"右此数手, 并外国比丘, 既华戎殊体"
+cv_moluo_puti_01,meso_moluo_puti,摩罗菩提,,Foreign Bhikshu,,,loc_foreign,,Travel,《续画品》,释迦佛陀 吉底俱 摩罗菩提,"右此数手, 并外国比丘, 既华戎殊体"

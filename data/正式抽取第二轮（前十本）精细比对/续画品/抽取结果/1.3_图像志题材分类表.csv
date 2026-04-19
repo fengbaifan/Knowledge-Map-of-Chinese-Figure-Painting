@@ -1,0 +1,7 @@
+icon_id,name,parent_id,artist_name,visual_elements,source_book,source_chapter,original_source_sentence
+icon_xuhua_001,"{""zh"": ""仙灵""}",cat_religion,佚名,"[""仙灵"", ""神仙""]",《续画品·姚最》,序,"故九楼之上, 备表仙灵"
+icon_xuhua_002,"{""zh"": ""贤圣""}",cat_history,佚名,"[""贤圣""]",《续画品·姚最》,序,"四門之墉, 广圖賢聖"
+icon_xuhua_006,"{""zh"": ""山川""}",cat_landscape,萧贲,"[""山川"", ""团扇""]",《续画品·姚最》,萧贲,尝画团扇，上为山川，咫尺之内，而瞻万里之遙；方寸之中，乃辨千寻之峻。
+icon_xuhua_008,"{""zh"": ""塔庙""}",cat_religion,张僧繇,"[""塔庙""]",《续画品·姚最》,张僧繇,右善圖塔庙，超越羣工。
+icon_xuhua_010,"{""zh"": ""庄周木鴈""}",cat_history,袁质,"[""庄周"", ""木雁""]",《续画品·姚最》,袁质,曾見草“庄周木鴈”、“卞和抱璞”兩圖
+icon_xuhua_011,"{""zh"": ""卞和抱璞""}",cat_history,袁质,"[""卞和"", ""抱璞""]",《续画品·姚最》,袁质,曾見草“庄周木鴈”、“卞和抱璞”兩圖

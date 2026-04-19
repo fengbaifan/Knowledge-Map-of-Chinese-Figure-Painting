@@ -1,0 +1,4 @@
+﻿rel_id,source_id,source_name_cn,target_id,target_name_cn,relation_type,formal_name,source_book,source_chapter,originalsource_sentence
+rel_k001,meso_temp_zhangliang,張諒,meso_76dab6f6,張德童,Kinship,父子 (Father-Son),《续画品录》,中品上,張德童(諒男)
+rel_a001,meso_9231adec,李嗣真,meso_temp_yaozui,姚最,Academic,引用/因袭 (Citation/Reference),《续画品录》,序,開列至釋迦佛陀、吉底俱、摩羅菩提，並剽姚最語
+rel_a002,meso_9231adec,李嗣真,meso_temp_yaozui,姚最,Academic,引用/因袭 (Citation/Reference),《续画品录》,跋,右唐御史大夫李嗣真所錄，盡取姚最之說。

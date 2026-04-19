@@ -1,0 +1,33 @@
+rel_id,source_id,source_name_cn,target_id,target_name_cn,relation_type,formal_name,source_book,source.chapter,originalsource_sentence
+rel_yaozui_01,meso_yao_zui,姚最,meso_yao_sengyuan,姚僧垣,Kinship,父子,《续画品》,注释,年十九随僧垣入关... 姚僧垣... 为最之父亲
+rel_yaozui_02,meso_yao_zui,姚最,meso_yuwen_xian,宇文宪,Official,君臣,《续画品》,注释,"俄授齐王宪府水曹参军, 掌记室事, 特为宪所礼接"
+rel_yaozui_03,meso_yao_zui,姚最,meso_yuwen_xiu,宇文秀,Official,君臣,《续画品》,注释,俄转蜀王秀友... 迁秀府司马
+rel_liupu_01,meso_liu_pu,刘璞,meso_liu_yinzu,刘胤祖,Kinship,父子,《续画品》,刘璞,"右胤祖之子, 少习门风, 至老笔法不渝前制"
+rel_liupu_02,meso_liu_pu,刘璞,meso_liu_shaozu,刘绍祖,Kinship,叔侄,《续画品》,注释,"父胤祖、叔父绍祖, 都是当时名家"
+rel_shenbiao_01,meso_shen_biao,沈标,meso_xie_he,谢赫,Master_Student,师徒,《续画品》,注释,"善画寺壁, 而且师事于谢赫"
+rel_xiehe_01,meso_xie_he,谢赫,meso_gu_kaizhi,顾恺之,Appreciation,评论,《续画品》,序,"谢陆声过于实, 良可于邑。列于下品, 尤所未安"
+rel_maohuixiu_01,meso_mao_huixiu,毛惠秀,meso_mao_huiyuan,毛惠远,Kinship,兄弟,《续画品》,毛惠秀,"遒劲不及惠远... 惠远即毛惠远, 是毛惠秀之兄"
+rel_maohuixiu_02,meso_mao_huixiu,毛惠秀,meso_xiao_ze,萧赜,Official,君臣,《续画品》,注释,"武帝欲北侵时, 命其画汉武帝北伐图"
+rel_xiaoben_01,meso_xiao_ben,萧贲,meso_xiao_yan,萧衍,Kinship,祖孙,《续画品》,注释,为梁武帝萧衍的玄孙
+rel_xiaoben_02,meso_xiao_ben,萧贲,meso_xiao_yi,萧绎,Official,君臣,《续画品》,注释,曾为湘东王(萧绎)法曹参军
+rel_zhangsengyao_01,meso_zhang_sengyao,张僧繇,meso_yao_tandu,姚昙度,Peer,比较,《续画品》,注释,超越羣工... 价等昙度
+rel_zhangsengyao_02,meso_zhang_sengyao,张僧繇,meso_zhang_shanguo,张善果,Kinship,父子,《续画品》,注释,又僧繇子善果、儒童皆能画
+rel_zhangsengyao_03,meso_zhang_sengyao,张僧繇,meso_zhang_rutong,张儒童,Kinship,父子,《续画品》,注释,又僧繇子善果、儒童皆能画
+rel_lusu_01,meso_lu_su,陆肃,meso_lu_sui,陆绥,Kinship,兄弟,《续画品》,陆肃,右绥之弟
+rel_lusu_02,meso_lu_su,陆肃,meso_lu_tanwei,陆探微,Kinship,父子,《续画品》,注释,陆肃... 陆探微之子
+rel_lusui_01,meso_lu_sui,陆绥,meso_lu_tanwei,陆探微,Kinship,父子,《续画品》,注释,即陆绥... 陆探微的长子
+rel_maoleng_01,meso_mao_leng,毛稜,meso_mao_huiyuan,毛惠远,Kinship,父子,《续画品》,毛稜,右惠远之子
+rel_maoleng_02,meso_mao_leng,毛稜,meso_mao_huixiu,毛惠秀,Kinship,叔侄,《续画品》,毛稜,"若比方诸父, 则床上安床... 诸父即伯叔"
+rel_jibaojun_01,meso_ji_baojun,嵇宝钧,meso_nie_song,聂松,Peer,同品,《续画品》,注释,梁帝云：与嵇同品
+rel_niesong_01,meso_nie_song,聂松,meso_zhang_sengyao,张僧繇,Peer,次于,《续画品》,嵇宝钧 聂松,"若辨其优劣, 则僧繇之亚"
+rel_jiaobaoyuan_01,meso_jiao_baoyuan,焦宝愿,meso_zhang_sengyao,张僧繇,Master_Student,游学,《续画品》,焦宝愿,"虽早游张谢, 而靳固不传"
+rel_jiaobaoyuan_02,meso_jiao_baoyuan,焦宝愿,meso_xie_he,谢赫,Master_Student,游学,《续画品》,焦宝愿,"虽早游张谢, 而靳固不传"
+rel_yuanzhi_01,meso_yuan_zhi,袁质,meso_yuan_qian,袁蒨,Kinship,父子,《续画品》,袁质,右蒨之子... 继父之美
+rel_yuanzhi_02,meso_yuan_zhi,袁质,meso_zhou_yi,周顗,Appreciation,比较,《续画品》,袁质,"若方之体物, 则伯仁龙马之颂"
+rel_yuanzhi_03,meso_yuan_zhi,袁质,meso_xun_yu,荀舆,Appreciation,比较,《续画品》,袁质,"比之书翰, 则长胤狸骨之方"
+rel_shisengzhen_01,meso_shi_sengzhen,释僧珍,meso_qu_daomin,蘧道愍,Kinship,甥舅,《续画品》,释僧珍 释僧觉,"右珍, 蘧道愍之甥"
+rel_shisengjue_01,meso_shi_sengjue,释僧觉,meso_yao_tandu,姚昙度,Kinship,父子,《续画品》,释僧珍 释僧觉,"觉, 姚昙度之子"
+rel_shisengzhen_02,meso_shi_sengzhen,释僧珍,meso_ji_baojun,嵇宝钧,Peer,比较,《续画品》,释僧珍 释僧觉,"若品其工拙, 盖嵇、聂之流"
+rel_weigong_01,meso_guangzhai_weigong,光宅威公,meso_shijia_fotuo,释迦佛陀,Appreciation,雅好,《续画品》,释迦佛陀 吉底俱,光宅威公雅就好此法
+rel_xieqian_01,meso_xie_qian,解蒨,meso_qu_daomin,蘧道愍,Style_Influence,师法,《续画品》,解蒨,全法章、蘧
+rel_xieqian_02,meso_xie_qian,解蒨,meso_zhang_jibo,章继伯,Style_Influence,师法,《续画品》,解蒨,全法章、蘧... 章即指南齐时画家... 章继伯

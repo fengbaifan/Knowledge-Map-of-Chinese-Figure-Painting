@@ -1,0 +1,13 @@
+﻿period_id,name,time_range,dynastic_info,source_book,source.chapter,originalsource_sentence
+period_ancient,古/千祀,"{""start"": -2070, ""end"": 220}",先秦至东汉,《续画品》,序,质古意，而文变今情
+period_recent,顷来,"{""start"": 502, ""end"": 551}",南朝梁·天监至大宝,《续画品》,序,顷来容服，一月三改
+period_qi_zhongxing,中兴,"{""start"": 501, ""end"": 502}",南朝齐·中兴,《续画品》,全卷·谢赫,中兴以后
+period_liang,梁,"{""start"": 502, ""end"": 557}",南朝梁,《续画品》,全卷,萧绎... 梁元帝
+period_qi,齐,"{""start"": 479, ""end"": 502}",南朝齐,《续画品》,全卷,然中兴以后
+period_song,宋,"{""start"": 420, ""end"": 479}",南朝宋,《续画品》,全卷,犹有名家之法
+period_wei,魏,"{""start"": 386, ""end"": 534}",北魏,《续画品》,全卷,初在魏，魏帝重之
+period_jin,晋,"{""start"": 265, ""end"": 420}",晋,《续画品》,全卷,虽质古意
+period_three_kingdoms,三国,"{""start"": 220, ""end"": 280}",三国·魏,《续画品》,全卷,陈思王云
+period_liang_xiangdong,南朝梁,"{""start"": 514, ""end"": 551}",南朝梁·湘东王时期,《续画品》,全卷,湘东殿下
+period_era_decades,数纪/晚出,"{""start"": 420, ""end"": 551}",南朝(宋齐梁),《续画品》,全卷,数纪之内...云云晚出
+period_current,今,"{""start"": 502, ""end"": 551}",南朝梁(文本创作当下),《续画品》,全卷,今衣冠绪裔

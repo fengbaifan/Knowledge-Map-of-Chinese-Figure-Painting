@@ -1,0 +1,18 @@
+﻿cv_id,person_ref,person_name,entry_mode,entry_mode_cn,official_title,rank,tenure,location_ref,time_ref,event_type,event_type_cn,source_book,source_chapter,originalsource_sentence
+cv_d6ed656e,meso_d2a6a3fd,萧绎,Inheritance,世袭/恩荫,殿下 (Prince),Nobility,{},loc_e0c371cc,period_liang,Official_Post,任官/任职,《续画品录》,序,湘东殿下
+cv_8f99e463,meso_044fb061,曹不興,Unknown,未知,Active in Region,,{},loc_e8ce7c9c,period_wu,Travel,游历/居留,《续画品录》,中品上,曹不興 (吴)、顧凱之 (東晉)、戴逵
+cv_4cf97407,meso_dd33632f,顧凱之,Unknown,未知,Active in Region,,{},loc_e8ce7c9c,period_eastern_jin,Travel,游历/居留,《续画品录》,中品上,曹不興 (吴)、顧凱之 (東晉)、戴逵
+cv_3284db68,meso_c7052d44,戴逵,Unknown,未知,Active in Region,,{},loc_e8ce7c9c,period_eastern_jin,Travel,游历/居留,《续画品录》,中品上,曹不興 (吴)、顧凱之 (東晉)、戴逵
+cv_8e36bd52,meso_151e9e34,顧寶先,Unknown,未知,Active in Region,,{},loc_7df4b8c1,period_southern_qi,Travel,游历/居留,《续画品录》,中品上,顧寶先、顧景秀 (南齊)、袁蒨
+cv_24873bad,meso_a17d0355,顧景秀,Unknown,未知,Active in Region,,{},loc_7df4b8c1,period_southern_qi,Travel,游历/居留,《续画品录》,中品上,顧寶先、顧景秀 (南齊)、袁蒨
+cv_1fc642aa,meso_832060a5,袁蒨,Unknown,未知,Active in Region,,{},loc_7df4b8c1,period_southern_qi,Travel,游历/居留,《续画品录》,中品上,顧寶先、顧景秀 (南齊)、袁蒨
+cv_df3ffbf2,meso_927b9bba,外國僧迦陀,Other,其他,外籍画师 (Foreign Painter),,{},loc_3d33c851,period_unknown,Travel,游历/居留,《续画品录》,下品中,聶松、高尚士、外國僧迦陀
+cv_5a4d43ce,meso_8585ef0b,晉明帝,Inheritance,世袭/恩荫,皇帝 (Emperor),Sovereign,{},,period_eastern_jin,Official_Post,任官/任职,《续画品录》,下品下,晉明帝、蔡贇、范長壽
+cv_e822a26c,meso_8ed52aa0,僧惠覺,Other,其他,僧 (Monk),Religious,{},,period_tang,Official_Post,任官/任职,《续画品录》,下品下,沈粲、僧惠覺、鍾宗斐
+cv_5d5d7845,meso_9231adec,李嗣真,Unknown,未知,御史大夫,High Official,{},,period_tang,Official_Post,任官/任职,《续画品录》,跋,右唐御史大夫李嗣真所錄
+cv_2aca2853,meso_be4a5160,吉底俱,Other,其他,僧 (Monk),Religious,{},,period_unknown,Official_Post,任官/任职,《续画品录》,下品中,吉底俱、摩羅菩提、康菩薩
+cv_a3ec1d46,meso_be4a5160,吉底俱,Other,其他,外籍画师 (Foreign Painter),,{},loc_3d33c851,period_unknown,Travel,游历/居留,《续画品录》,下品中,吉底俱、摩羅菩提、康菩薩
+cv_71f52cbc,meso_92d3dd72,摩羅菩提,Other,其他,僧 (Monk),Religious,{},,period_unknown,Official_Post,任官/任职,《续画品录》,下品中,吉底俱、摩羅菩提、康菩薩
+cv_46a747df,meso_92d3dd72,摩羅菩提,Other,其他,外籍画师 (Foreign Painter),,{},loc_3d33c851,period_unknown,Travel,游历/居留,《续画品录》,下品中,吉底俱、摩羅菩提、康菩薩
+cv_1a87a6ce,meso_5fd6fad2,康菩薩,Other,其他,僧 (Monk),Religious,{},,period_unknown,Official_Post,任官/任职,《续画品录》,下品中,吉底俱、摩羅菩提、康菩薩
+cv_aed2f27c,meso_5fd6fad2,康菩薩,Other,其他,外籍画师 (Foreign Painter),,{},loc_3d33c851,period_unknown,Travel,游历/居留,《续画品录》,下品中,吉底俱、摩羅菩提、康菩薩
