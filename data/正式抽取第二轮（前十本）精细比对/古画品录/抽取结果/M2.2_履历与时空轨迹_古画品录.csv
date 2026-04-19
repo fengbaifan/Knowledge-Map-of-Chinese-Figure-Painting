@@ -1,4 +1,4 @@
-﻿"cv_id","person_ref","name","entry_mode","official_title","rank","tenure","location_ref","time_ref","event_type","source_book","source_chapter","originalsource_sentence"
+cv_id,person_ref,entry_mode,official_title,rank,tenure,location_ref,time_ref,event_type,source_book,source_chapter,source_text
 "cv_ghpl_000","meso_xie_he","谢赫","","南齐时人（姚最评其中兴以后，众人莫及）","","","","南齐","Official_Post","《古画品录》","序","夫画品者，盖众画之优劣也。圖繪者，莫不明劝戒，著升沉，千載寂寥，披圖可鉴。虽画有六法，罕能尽該，而自古及今，各善一节。 六法者何？一气韻生动是也；二骨法用笔是也；三应物象形是也；四随类赋彩是也；五經營位置是也；六傳移模写是也。唯陆探微、衛协备该之矣。然迹有巧拙，艺無古今，謹依远近，随其品第，裁成序引。故此所述，不广其源，但傳出自神仙，莫之聞見也。"
 "cv_ghpl_001","meso_lu_tanwei","陆探微","","事五代宋明帝","宫廷画师（无明确品阶）","","吴人","南朝宋（宋文帝至明帝间）","Official_Post","《古画品录》","第一品","穷理尽性,事絕言象。包前孕后,古今独立。非复激揚所能称赞,但价重之極乎上,上品之外,無他寄言,故屈标第一等。"
 "cv_ghpl_002","meso_cao_buxing","曹不兴","","事孙权","宫廷画师（无明确品阶）","","吴兴；秘阁之内","三国吴","Official_Post","《古画品录》","第一品","不兴之迹，殆莫复傳，唯秘閣之内,一龙而已。观其風骨,名豈虚成。"

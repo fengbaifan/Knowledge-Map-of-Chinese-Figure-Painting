@@ -1,4 +1,4 @@
-﻿"person_id","primary_role","courtesy_name","pseudonym","other_names","choronym","birth_death","period_ref","authority_ids","source_book","source.chapter","originalsource"
+person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,source_text
 "meso_houhualu_e1a9aeed7df1","郑法士","未详","未详","未详","吴","活跃于周隋间","周","未详","《后画录·彦悰》.md","周中大夫郑法士","### 周中大夫郑法士
 取法张公，备该万物。后来冠冕，获擅名家。"
 "meso_houhualu_5cbb49e6cb13","孙尚孜","未详","未详","孙尚子","吴","活跃于隋","隋","未详","《后画录·彦悰》.md","隋孙尚孜","### 隋孙尚孜

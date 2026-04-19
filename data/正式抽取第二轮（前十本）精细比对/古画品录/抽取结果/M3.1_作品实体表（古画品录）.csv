@@ -1,4 +1,4 @@
-work_id,title,creator_ref,period_ref,icon_ref,status,support,dimensions,repository,source_book,originalsource
+work_id,title,creator_ref,period_ref,icon_ref,status,support,dimensions,repository,source_book,source_chapter,source_text
 work_ghpl_001,《古画品录》,谢赫,南齐,画论,存世,籍,,,《古画品录·谢赫》.md,南齐谢赫撰...此书为我国现存最古的论画著作。
 work_ghpl_002,安期先生图,谢赫,南齐,人物,佚失,绢,,,《古画品录·谢赫》.md,尚载其有“安期先生图”传于代。
 work_ghpl_003,晋明帝步辇图,谢赫,南齐,人物,存世(传摹),绢,,,《古画品录·谢赫》.md,"宋之黄伯思所着“东观余论”中,有“南齐谢赫画晋明帝步辇图”...虽经传摹，意象高古"

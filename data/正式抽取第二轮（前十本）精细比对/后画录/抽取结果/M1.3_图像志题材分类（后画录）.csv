@@ -1,4 +1,4 @@
-﻿"icon_id","name","parent_id","visual_elements","source_book","source.chapter","originalsource"
+icon_id,name,parent_id,visual_elements,source_book,source_chapter,source_text
 "icon_houhualu_root","后画录题材（总类）","","[]","《后画录·彦悰》.md","后画录","# 后画录"
 "icon_people","人物","后画录题材（总类）","[""子女"",""妇人"",""衣服"",""形制""]","《后画录·彦悰》.md","隋孙尚孜","师模顾、陆，骨气有余。至于鬼神，性多偏擅；妇人亦有风态。"
 "icon_women","妇人","人物","[""妇人"",""风态""]","《后画录·彦悰》.md","隋孙尚孜","师模顾、陆，骨气有余。至于鬼神，性多偏擅；妇人亦有风态。"

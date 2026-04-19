@@ -1,4 +1,4 @@
-﻿"cv_id","person_ref","entry_mode","official_title","rank","tenure","location_ref","time_ref","event_type","source_book","source.chapter","originalsource"
+cv_id,person_ref,entry_mode,official_title,rank,tenure,location_ref,time_ref,event_type,source_book,source_chapter,source_text
 "cv_houhualu_e1a9aeed7df1","郑法士","未详","中大夫","视从四品","未详","长安","周","任官","《后画录·彦悰》.md","周中大夫郑法士","### 周中大夫郑法士"
 "cv_houhualu_5cbb49e6cb13","孙尚孜","未详","宫廷画师","未详","未详","长安","隋","任官","《后画录·彦悰》.md","隋孙尚孜","### 隋孙尚孜"
 "cv_houhualu_372056e84da7","杨子华","未详","宫廷画师","未详","未详","邺城","北齐","任官","《后画录·彦悰》.md","北齐杨子华","### 北齐杨子华"

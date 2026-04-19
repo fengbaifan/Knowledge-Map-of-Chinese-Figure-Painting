@@ -1,4 +1,4 @@
-﻿"period_id","name","time_range","dynastic_info","source_book","source.chapter","originalsource"
+period_id,name,time_range,dynastic_info,source_book,source_chapter,source_text
 "period_northern_qi","北齐","","政权断代","《后画录·彦悰》.md","北齐杨子华","### 北齐杨子华"
 "period_southern_qi","南齐","","政权断代","《后画录·彦悰》.md","南齐殿中将军董伯仁","### 南齐殿中将军董伯仁"
 "period_sui","隋","","政权断代","《后画录·彦悰》.md","隋孙尚孜","### 隋孙尚孜"

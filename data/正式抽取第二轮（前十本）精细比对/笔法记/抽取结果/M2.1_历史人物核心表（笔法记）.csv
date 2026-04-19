@@ -1,4 +1,4 @@
-﻿person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source.chapter,originalsource
+person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,source_text
 meso_jing_hao,画家,荆浩,浩然,洪谷子,"[""耕生""]",河南沁水,"{""birth"": null, ""death"": null, ""period_ref"": ""时期_五代""}",时期_五代,{},《笔法记·荆浩》.md,物理页面 第 7 页,〔2〕荆浩——五代梁时河南沁水人，字浩然。因唐末中原战乱，隐于山西太行山之洪谷，所以自号洪谷子。博通经史，是中古杰出的山水画家。汤垕以为他的山水“为唐末之冠”。他曾对人说：吴道子山水，有笔而无墨；项容之画有墨而无笔。于是他要吸取前辈各家之长，来创立自己的新风格。
 meso_xie_he,鉴赏者,谢赫,未详,未详,[],未详,"{""birth"": null, ""death"": null, ""period_ref"": ""自古""}",自古,{},《笔法记·荆浩》.md,物理页面 第 5 页,叟曰：“得之者少。谢赫品陆之为胜今已难遇亲踪；张僧繇所遗之图，甚亏其理。夫随类赋彩，自古有能，如水量墨章，兴吾唐代。故张璪员外树石，气韵俱盛，笔墨积微。真思卓然，不贵五彩，旷古绝今，未之有也。曲庭与白云尊师，气象幽妙，俱得其元，动用逸常，深不可测。王右丞笔墨宛丽，气韵高清，巧写象成，亦动真思。李将军理深思远，笔迹甚精，虽巧而华，大亏墨彩。项容山人树石顽涩，稜角无取𨃬，用墨独得玄门，用笔全无其骨。然于放逸，不失真元气象，元大剏巧媚。吴道…
 meso_lu_tanwei,画家,陆探微,未详,未详,[],未详,"{""birth"": null, ""death"": null, ""period_ref"": ""自古""}",自古,{},《笔法记·荆浩》.md,物理页面 第 14 页,这里所谓“笔绝而不断”，即是笔已断，而意不断，所以说笔未有断。郭若虚《图画见闻志》中说陆探微“作一笔画，连绵不断”，王概《芥子

@@ -1,4 +1,4 @@
-﻿"lit_id","target_ref","source_book","author_ref","quality_rank","quote","source.chapter"
+lit_id,target_ref,source_book,source_chapter,author_ref,quality_rank,quote,source_text
 "lit_houhualu_1d2b0bab69c5","meso_houhualu_e1a9aeed7df1","《后画录》","彦悰","正面","取法张公，备该万物。后来冠冕，获擅名家。","周中大夫郑法士"
 "lit_houhualu_d2903b3e4811","meso_houhualu_5cbb49e6cb13","《后画录》","彦悰","正面","师模顾、陆，骨气有余。至于鬼神，性多偏擅；妇人亦有风态。","隋孙尚孜"
 "lit_houhualu_1c5b6c038b5a","meso_houhualu_372056e84da7","《后画录》","彦悰","正面","北齐之最。唯公有图，善写龙兽，能致风云。","北齐杨子华"

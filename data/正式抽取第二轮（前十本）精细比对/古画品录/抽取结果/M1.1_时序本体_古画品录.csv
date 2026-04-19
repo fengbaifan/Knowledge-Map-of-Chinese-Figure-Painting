@@ -1,4 +1,4 @@
-﻿"period_id","name","time_range","dynastic_info","source_book","source_chapter","original_source_sentence"
+period_id,name,time_range,dynastic_info,source_book,source_chapter,source_text
 "period_wei_jin","五代晋时","{""start"": 220, ""end"": 420}","魏晋","《古画品录》","第一品 卫协","五代 晋时"
 "period_wu_huangwu","黄武间","{""start"": 222, ""end"": 226}","三国·吴·孙权","《古画品录》","第一品 曹不兴","于黃武間(公元二二〇年至二二六年)享有很大的声誉。"
 "period_wu_sunquan","五代吴时","{""start"": 222, ""end"": 252}","三国·吴·孙权","《古画品录》","第一品 曹不兴","五代吴时事孙权"

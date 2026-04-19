@@ -1,4 +1,4 @@
-rel_id,subject_ref,relation_type,object_ref,source_book,original_text
+rel_id,source_id,target_id,relation_type,formal_name,source_book,source_chapter,source_text
 rel_ghpl_001,陆探微,父,陆绥,《古画品录·谢赫》.md,其子陆绥、陆弘肃皆善其事
 rel_ghpl_002,陆探微,父,陆弘肃,《古画品录·谢赫》.md,其子陆绥、陆弘肃皆善其事
 rel_ghpl_003,卫协,师,曹不兴,《古画品录·谢赫》.md,绘画师法曹不兴

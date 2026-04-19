@@ -1,4 +1,4 @@
-﻿"location_id","name","type","historical_names","modern_address","coordinates","source_trace","source_book","source_chapter","original_source_sentence"
+location_id,historical_names,modern_address,coordinates,source_book,source_chapter,source_text
 "loc_wu_jun","吴","Admin_Region","吴","江苏省苏州市一带","[120.619907, 31.299379]","第一品 陆探微","《古画品录》","第一品 陆探微","陆探微吴人。"
 "loc_wuxing","吴兴","Admin_Region","吴兴","浙江省湖州市","[120.102398, 30.867198]","第一品 曹不兴","《古画品录》","第一品 曹不兴","曹不兴吴兴人。"
 "loc_mige","秘阁","Studio","秘阁","","","第一品 曹不兴","《古画品录》","第一品 曹不兴","唯秘阁之内，一龙而已。"
