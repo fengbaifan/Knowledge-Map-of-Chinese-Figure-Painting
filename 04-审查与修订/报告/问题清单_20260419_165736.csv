@@ -1,0 +1,508 @@
+﻿文件名,行号,字段名,问题类型,严重程度,当前值,建议值,是否已修复,问题描述
+M3.1_作品实体表（古画品录）.csv,,source_text,推荐字段缺失率高,警告,,,否,推荐字段 source_text 缺失率 100.0%
+M3.1_作品实体表（古画品录）.csv,2,work_id,格式不规范,警告,work_ghpl_001,micro_work_ghpl_001,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,3,work_id,格式不规范,警告,work_ghpl_002,micro_work_ghpl_002,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,4,work_id,格式不规范,警告,work_ghpl_003,micro_work_ghpl_003,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,5,work_id,格式不规范,警告,work_ghpl_004,micro_work_ghpl_004,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,6,work_id,格式不规范,警告,work_ghpl_005,micro_work_ghpl_005,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,7,work_id,格式不规范,警告,work_ghpl_006,micro_work_ghpl_006,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,8,work_id,格式不规范,警告,work_ghpl_007,micro_work_ghpl_007,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,9,work_id,格式不规范,警告,work_ghpl_008,micro_work_ghpl_008,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,10,work_id,格式不规范,警告,work_ghpl_009,micro_work_ghpl_009,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,11,work_id,格式不规范,警告,work_ghpl_010,micro_work_ghpl_010,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,12,work_id,格式不规范,警告,work_ghpl_011,micro_work_ghpl_011,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,13,work_id,格式不规范,警告,work_ghpl_012,micro_work_ghpl_012,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,14,work_id,格式不规范,警告,work_ghpl_013,micro_work_ghpl_013,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,15,work_id,格式不规范,警告,work_ghpl_014,micro_work_ghpl_014,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,16,work_id,格式不规范,警告,work_ghpl_015,micro_work_ghpl_015,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,17,work_id,格式不规范,警告,work_ghpl_016,micro_work_ghpl_016,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,18,work_id,格式不规范,警告,work_ghpl_017,micro_work_ghpl_017,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,19,work_id,格式不规范,警告,work_ghpl_018,micro_work_ghpl_018,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,20,work_id,格式不规范,警告,work_ghpl_019,micro_work_ghpl_019,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,21,work_id,格式不规范,警告,work_ghpl_020,micro_work_ghpl_020,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,22,work_id,格式不规范,警告,work_ghpl_021,micro_work_ghpl_021,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,23,work_id,格式不规范,警告,work_ghpl_022,micro_work_ghpl_022,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,24,work_id,格式不规范,警告,work_ghpl_023,micro_work_ghpl_023,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,25,work_id,格式不规范,警告,work_ghpl_024,micro_work_ghpl_024,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,26,work_id,格式不规范,警告,work_ghpl_025,micro_work_ghpl_025,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,27,work_id,格式不规范,警告,work_ghpl_026,micro_work_ghpl_026,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,28,work_id,格式不规范,警告,work_ghpl_027,micro_work_ghpl_027,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,29,work_id,格式不规范,警告,work_ghpl_028,micro_work_ghpl_028,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,30,work_id,格式不规范,警告,work_ghpl_029,micro_work_ghpl_029,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,31,work_id,格式不规范,警告,work_ghpl_030,micro_work_ghpl_030,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,32,work_id,格式不规范,警告,work_ghpl_031,micro_work_ghpl_031,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,33,work_id,格式不规范,警告,work_ghpl_032,micro_work_ghpl_032,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,34,work_id,格式不规范,警告,work_ghpl_033,micro_work_ghpl_033,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,35,work_id,格式不规范,警告,work_ghpl_034,micro_work_ghpl_034,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,36,work_id,格式不规范,警告,work_ghpl_035,micro_work_ghpl_035,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,37,work_id,格式不规范,警告,work_ghpl_036,micro_work_ghpl_036,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,38,work_id,格式不规范,警告,work_ghpl_037,micro_work_ghpl_037,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,39,work_id,格式不规范,警告,work_ghpl_038,micro_work_ghpl_038,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,40,work_id,格式不规范,警告,work_ghpl_039,micro_work_ghpl_039,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,41,work_id,格式不规范,警告,work_ghpl_040,micro_work_ghpl_040,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,42,work_id,格式不规范,警告,work_ghpl_041,micro_work_ghpl_041,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,43,work_id,格式不规范,警告,work_ghpl_042,micro_work_ghpl_042,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,44,work_id,格式不规范,警告,work_ghpl_043,micro_work_ghpl_043,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,45,work_id,格式不规范,警告,work_ghpl_044,micro_work_ghpl_044,是,work_id 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,2,creator_ref,格式不规范,警告,谢赫,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,3,creator_ref,格式不规范,警告,谢赫,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,4,creator_ref,格式不规范,警告,谢赫,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,5,creator_ref,格式不规范,警告,曹不兴,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,6,creator_ref,格式不规范,警告,曹不兴,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,7,creator_ref,格式不规范,警告,曹不兴,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,8,creator_ref,格式不规范,警告,顾骏之,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,9,creator_ref,格式不规范,警告,顾景秀,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,10,creator_ref,格式不规范,警告,袁蒨,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,11,creator_ref,格式不规范,警告,袁蒨,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,12,creator_ref,格式不规范,警告,袁蒨,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,13,creator_ref,格式不规范,警告,顾恺之,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,14,creator_ref,格式不规范,警告,顾恺之,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,15,creator_ref,格式不规范,警告,顾恺之,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,16,creator_ref,格式不规范,警告,顾恺之,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,17,creator_ref,格式不规范,警告,顾恺之,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,18,creator_ref,格式不规范,警告,毛惠远,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,19,creator_ref,格式不规范,警告,毛惠远,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,20,creator_ref,格式不规范,警告,毛惠远,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,21,creator_ref,格式不规范,警告,毛惠远,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,22,creator_ref,格式不规范,警告,毛惠远,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,23,creator_ref,格式不规范,警告,毛惠远,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,24,creator_ref,格式不规范,警告,夏侯瞻,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,25,creator_ref,格式不规范,警告,夏侯瞻,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,26,creator_ref,格式不规范,警告,夏侯瞻,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,27,creator_ref,格式不规范,警告,夏侯瞻,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,28,creator_ref,格式不规范,警告,戴逵,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,29,creator_ref,格式不规范,警告,戴顒,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,30,creator_ref,格式不规范,警告,江僧宝,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,31,creator_ref,格式不规范,警告,江僧宝,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,32,creator_ref,格式不规范,警告,江僧宝,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,33,creator_ref,格式不规范,警告,晋明帝,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,34,creator_ref,格式不规范,警告,晋明帝,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,35,creator_ref,格式不规范,警告,晋明帝,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,36,creator_ref,格式不规范,警告,晋明帝,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,37,creator_ref,格式不规范,警告,王廙,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,38,creator_ref,格式不规范,警告,史道硕,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,39,creator_ref,格式不规范,警告,史道硕,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,40,creator_ref,格式不规范,警告,史道硕,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,41,creator_ref,格式不规范,警告,史道硕,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,42,creator_ref,格式不规范,警告,宗炳,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,43,creator_ref,格式不规范,警告,刘瑱,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,44,creator_ref,格式不规范,警告,刘瑱,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,45,creator_ref,格式不规范,警告,章继伯,,否,creator_ref 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,2,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,3,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,4,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,5,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,6,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,7,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,8,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,9,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,10,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,11,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,12,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,13,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,14,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,15,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,16,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,17,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,18,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,19,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,20,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,21,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,22,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,23,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,24,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,25,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,26,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,27,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,28,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,29,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,30,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,31,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,32,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,33,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,34,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,35,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,36,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,37,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,38,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,39,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,40,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,41,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,42,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,43,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,44,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,45,source_book,格式不规范,警告,《古画品录·谢赫》.md,《古画品录·谢赫》.md》,是,source_book 格式不符合规范
+M3.1_作品实体表（古画品录）.csv,2,status,枚举值错误,警告,存世,,否,"status 的值 '存世' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,3,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,4,status,枚举值错误,警告,存世(传摹),,否,"status 的值 '存世(传摹)' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,5,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,6,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,7,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,8,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,9,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,10,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,11,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,12,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,13,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,14,status,枚举值错误,警告,存世(传摹),,否,"status 的值 '存世(传摹)' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,15,status,枚举值错误,警告,存世,,否,"status 的值 '存世' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,16,status,枚举值错误,警告,存世,,否,"status 的值 '存世' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,17,status,枚举值错误,警告,存世,,否,"status 的值 '存世' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,18,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,19,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,20,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,21,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,22,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,23,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,24,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,25,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,26,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,27,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,28,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,29,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,30,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,31,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,32,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,33,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,34,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,35,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,36,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,37,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,38,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,39,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,40,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,41,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,42,status,枚举值错误,警告,存世,,否,"status 的值 '存世' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,43,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,44,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,45,status,枚举值错误,警告,佚失,,否,"status 的值 '佚失' 不在允许范围内: ['Extant', 'Lost', 'Attributed', 'Copy', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,2,support,枚举值错误,警告,籍,,否,"support 的值 '籍' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,3,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,4,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,5,support,枚举值错误,警告,屏风,,否,"support 的值 '屏风' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,6,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,7,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,8,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,9,support,枚举值错误,警告,扇,,否,"support 的值 '扇' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,10,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,11,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,12,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,13,support,枚举值错误,警告,壁,,否,"support 的值 '壁' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,14,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,15,support,枚举值错误,警告,籍,,否,"support 的值 '籍' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,16,support,枚举值错误,警告,籍,,否,"support 的值 '籍' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,17,support,枚举值错误,警告,籍,,否,"support 的值 '籍' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,18,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,20,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,21,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,22,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,23,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,24,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,25,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,26,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,27,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,28,support,枚举值错误,警告,木,,否,"support 的值 '木' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,29,support,枚举值错误,警告,铜,,否,"support 的值 '铜' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,30,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,31,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,32,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,33,support,枚举值错误,警告,壁,,否,"support 的值 '壁' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,34,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,35,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,36,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,37,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,38,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,39,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,40,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,41,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,42,support,枚举值错误,警告,籍,,否,"support 的值 '籍' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,43,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,44,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M3.1_作品实体表（古画品录）.csv,45,support,枚举值错误,警告,绢,,否,"support 的值 '绢' 不在允许范围内: ['Silk', 'Paper', 'Wall', 'Wood', 'Other', 'Unknown']"
+M1.2_空间地理本体_古画品录.csv,4,source_book,必填字段为空,严重,,,否,必填字段 source_book 为空
+M1.2_空间地理本体_古画品录.csv,7,source_book,必填字段为空,严重,,,否,必填字段 source_book 为空
+M1.2_空间地理本体_古画品录.csv,17,source_book,必填字段为空,严重,,,否,必填字段 source_book 为空
+M1.2_空间地理本体_古画品录.csv,23,source_book,必填字段为空,严重,,,否,必填字段 source_book 为空
+M1.2_空间地理本体_古画品录.csv,35,source_book,必填字段为空,严重,,,否,必填字段 source_book 为空
+M1.2_空间地理本体_古画品录.csv,47,source_book,必填字段为空,严重,,,否,必填字段 source_book 为空
+M1.2_空间地理本体_古画品录.csv,49,source_book,必填字段为空,严重,,,否,必填字段 source_book 为空
+M1.2_空间地理本体_古画品录.csv,2,source_book,格式不规范,警告,江苏省苏州市一带,《江苏省苏州市一带》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,3,source_book,格式不规范,警告,浙江省湖州市,《浙江省湖州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,5,source_book,格式不规范,警告,河南省禹州市,《河南省禹州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,6,source_book,格式不规范,警告,江苏省苏州市一带,《江苏省苏州市一带》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,8,source_book,格式不规范,警告,江苏省苏州市一带,《江苏省苏州市一带》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,9,source_book,格式不规范,警告,江苏省无锡市,《江苏省无锡市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,10,source_book,格式不规范,警告,河南省原阳县,《河南省原阳县》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,11,source_book,格式不规范,警告,安徽省濉溪县,《安徽省濉溪县》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,12,source_book,格式不规范,警告,江苏省南京市,《江苏省南京市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,13,source_book,格式不规范,警告,湖北省荆州市,《湖北省荆州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,14,source_book,格式不规范,警告,江苏省南京市,《江苏省南京市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,15,source_book,格式不规范,警告,西安与洛阳一带,《西安与洛阳一带》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,16,source_book,格式不规范,警告,江苏省苏州市,《江苏省苏州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,18,source_book,格式不规范,警告,江苏省苏州市,《江苏省苏州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,19,source_book,格式不规范,警告,山东省临沂市,《山东省临沂市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,20,source_book,格式不规范,警告,湖北省荆州市,《湖北省荆州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,21,source_book,格式不规范,警告,浙江省绍兴市嵊州,《浙江省绍兴市嵊州》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,22,source_book,格式不规范,警告,江苏省徐州市,《江苏省徐州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,24,source_book,格式不规范,警告,河南省邓州市,《河南省邓州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,25,source_book,格式不规范,警告,湖北省荆山与巫山,《湖北省荆山与巫山》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,26,source_book,格式不规范,警告,湖南省衡山,《湖南省衡山》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,27,source_book,格式不规范,警告,湖南省衡山,《湖南省衡山》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,28,source_book,格式不规范,警告,江苏省扬州市,《江苏省扬州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,29,source_book,格式不规范,警告,湖南省衡阳市一带,《湖南省衡阳市一带》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,30,source_book,格式不规范,警告,江苏省南京市,《江苏省南京市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,31,source_book,格式不规范,警告,山东省济南市长清区一带,《山东省济南市长清区一带》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,32,source_book,格式不规范,警告,浙江省湖州市,《浙江省湖州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,33,source_book,格式不规范,警告,浙江省绍兴市嵊州,《浙江省绍兴市嵊州》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,34,source_book,格式不规范,警告,江苏省扬州市,《江苏省扬州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,36,source_book,格式不规范,警告,陕西省西安市一带,《陕西省西安市一带》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,37,source_book,格式不规范,警告,广西壮族自治区桂林市,《广西壮族自治区桂林市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,38,source_book,格式不规范,警告,江苏省昆山市,《江苏省昆山市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,39,source_book,格式不规范,警告,浙江省德清县武康镇,《浙江省德清县武康镇》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,40,source_book,格式不规范,警告,河南省周口市太康县,《河南省周口市太康县》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,41,source_book,格式不规范,警告,湖北省荆州市,《湖北省荆州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,42,source_book,格式不规范,警告,湖北省荆山一带,《湖北省荆山一带》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,43,source_book,格式不规范,警告,河北省南部及山西省北部,《河北省南部及山西省北部》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,44,source_book,格式不规范,警告,陕西省一带,《陕西省一带》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,45,source_book,格式不规范,警告,陕西省西安市西汉长安城内,《陕西省西安市西汉长安城内》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,46,source_book,格式不规范,警告,浙江省杭州市,《浙江省杭州市》,是,source_book 格式不符合规范
+M1.2_空间地理本体_古画品录.csv,48,source_book,格式不规范,警告,陕西省陇县西北,《陕西省陇县西北》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,2,lit_id,格式不规范,警告,re_ghpl_001,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,3,lit_id,格式不规范,警告,re_ghpl_002,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,4,lit_id,格式不规范,警告,re_ghpl_003,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,5,lit_id,格式不规范,警告,re_ghpl_004,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,6,lit_id,格式不规范,警告,re_ghpl_005,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,7,lit_id,格式不规范,警告,re_ghpl_006,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,8,lit_id,格式不规范,警告,re_ghpl_007,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,9,lit_id,格式不规范,警告,re_ghpl_008,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,10,lit_id,格式不规范,警告,re_ghpl_009,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,11,lit_id,格式不规范,警告,re_ghpl_010,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,12,lit_id,格式不规范,警告,re_ghpl_011,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,13,lit_id,格式不规范,警告,re_ghpl_012,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,14,lit_id,格式不规范,警告,re_ghpl_013,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,15,lit_id,格式不规范,警告,re_ghpl_014,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,16,lit_id,格式不规范,警告,re_ghpl_015,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,17,lit_id,格式不规范,警告,re_ghpl_016,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,18,lit_id,格式不规范,警告,re_ghpl_017,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,19,lit_id,格式不规范,警告,re_ghpl_018,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,20,lit_id,格式不规范,警告,re_ghpl_019,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,21,lit_id,格式不规范,警告,re_ghpl_020,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,22,lit_id,格式不规范,警告,re_ghpl_021,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,23,lit_id,格式不规范,警告,re_ghpl_022,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,24,lit_id,格式不规范,警告,re_ghpl_023,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,25,lit_id,格式不规范,警告,re_ghpl_024,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,26,lit_id,格式不规范,警告,re_ghpl_025,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,27,lit_id,格式不规范,警告,re_ghpl_026,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,28,lit_id,格式不规范,警告,re_ghpl_027,,否,lit_id 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,2,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,3,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,4,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,5,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,6,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,7,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,8,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,9,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,10,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,11,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,12,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,13,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,14,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,15,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,16,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,17,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,18,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,19,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,20,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,21,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,22,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,23,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,24,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,25,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,26,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,27,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M3.2_文献著录与品评（古画品录）.csv,28,source_book,格式不规范,警告,古画品录,《古画品录》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,,source_chapter,推荐字段缺失率高,警告,,,否,推荐字段 source_chapter 缺失率 100.0%
+M2.3_社会关系实例（古画品录）.csv,,source_text,推荐字段缺失率高,警告,,,否,推荐字段 source_text 缺失率 100.0%
+M2.3_社会关系实例（古画品录）.csv,2,source_id,格式不规范,警告,陆探微,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,3,source_id,格式不规范,警告,陆探微,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,4,source_id,格式不规范,警告,卫协,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,5,source_id,格式不规范,警告,张墨,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,6,source_id,格式不规范,警告,荀勗,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,7,source_id,格式不规范,警告,袁蒨,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,8,source_id,格式不规范,警告,姚昙度,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,9,source_id,格式不规范,警告,毛惠远,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,10,source_id,格式不规范,警告,毛惠远,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,11,source_id,格式不规范,警告,戴逵,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,12,source_id,格式不规范,警告,戴逵,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,13,source_id,格式不规范,警告,江僧宝,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,14,source_id,格式不规范,警告,江僧宝,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,15,source_id,格式不规范,警告,张则,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,16,source_id,格式不规范,警告,陆杲,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,17,source_id,格式不规范,警告,蘧道愍,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,18,source_id,格式不规范,警告,顾宝光,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,19,source_id,格式不规范,警告,王微,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,20,source_id,格式不规范,警告,王微,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,21,source_id,格式不规范,警告,史道硕,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,22,source_id,格式不规范,警告,史道硕,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,23,source_id,格式不规范,警告,晋明帝,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,24,source_id,格式不规范,警告,王廙,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,25,source_id,格式不规范,警告,王羲之,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,26,source_id,格式不规范,警告,刘绍祖,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,27,source_id,格式不规范,警告,曹不兴,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,28,source_id,格式不规范,警告,陆探微,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,29,source_id,格式不规范,警告,陆探微,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,30,source_id,格式不规范,警告,卫协,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,31,source_id,格式不规范,警告,宗炳,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,32,source_id,格式不规范,警告,王义恭,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,33,source_id,格式不规范,警告,张僧繇,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,34,source_id,格式不规范,警告,戴勃,,否,source_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,2,target_id,格式不规范,警告,父,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,3,target_id,格式不规范,警告,父,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,4,target_id,格式不规范,警告,师,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,5,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,6,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,7,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,8,target_id,格式不规范,警告,父,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,9,target_id,格式不规范,警告,齐名,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,10,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,11,target_id,格式不规范,警告,父,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,12,target_id,格式不规范,警告,父,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,13,target_id,格式不规范,警告,师法,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,14,target_id,格式不规范,警告,师法,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,15,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,16,target_id,格式不规范,警告,外甥,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,17,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,18,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,19,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,20,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,21,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,22,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,23,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,24,target_id,格式不规范,警告,叔/从父,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,25,target_id,格式不规范,警告,弟子,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,26,target_id,格式不规范,警告,弟,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,27,target_id,格式不规范,警告,事(君臣),,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,28,target_id,格式不规范,警告,齐名,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,29,target_id,格式不规范,警告,齐名,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,30,target_id,格式不规范,警告,齐名,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,31,target_id,格式不规范,警告,齐名,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,32,target_id,格式不规范,警告,荐举,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,33,target_id,格式不规范,警告,师法,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,34,target_id,格式不规范,警告,兄弟,,否,target_id 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,2,source_book,格式不规范,警告,其子陆绥、陆弘肃皆善其事,《其子陆绥、陆弘肃皆善其事》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,3,source_book,格式不规范,警告,其子陆绥、陆弘肃皆善其事,《其子陆绥、陆弘肃皆善其事》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,4,source_book,格式不规范,警告,绘画师法曹不兴,《绘画师法曹不兴》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,5,source_book,格式不规范,警告,画师卫协,《画师卫协》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,6,source_book,格式不规范,警告,师法卫协,《师法卫协》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,7,source_book,格式不规范,警告,师法陆探微,《师法陆探微》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,8,source_book,格式不规范,警告,"其子惠觉,亦擅画","《其子惠觉,亦擅画》",是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,9,source_book,格式不规范,警告,与刘琪画妇人，并当代第一,《与刘琪画妇人，并当代第一》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,10,source_book,格式不规范,警告,其画师法于顾恺之,《其画师法于顾恺之》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,11,source_book,格式不规范,警告,戴逵之次子,《戴逵之次子》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,12,source_book,格式不规范,警告,"其兄勃,亦有父风","《其兄勃,亦有父风》",是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,13,source_book,格式不规范,警告,斟酌袁陆,《斟酌袁陆》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,14,source_book,格式不规范,警告,斟酌袁陆,《斟酌袁陆》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,15,source_book,格式不规范,警告,师法吴暕,《师法吴暕》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,16,source_book,格式不规范,警告,与其舅张融齐名,《与其舅张融齐名》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,17,source_book,格式不规范,警告,蘧始师章,《蘧始师章》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,18,source_book,格式不规范,警告,全法陆家,《全法陆家》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,19,source_book,格式不规范,警告,并师荀卫,《并师荀卫》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,20,source_book,格式不规范,警告,并师荀卫,《并师荀卫》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,21,source_book,格式不规范,警告,并师荀卫,《并师荀卫》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,22,source_book,格式不规范,警告,并师荀卫,《并师荀卫》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,23,source_book,格式不规范,警告,师王廙,《师王廙》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,24,source_book,格式不规范,警告,王羲之为其从子,《王羲之为其从子》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,25,source_book,格式不规范,警告,时右军亦学画于廙,《时右军亦学画于廙》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,26,source_book,格式不规范,警告,其兄刘胤祖,《其兄刘胤祖》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,27,source_book,格式不规范,警告,事孙权,《事孙权》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,28,source_book,格式不规范,警告,与顾恺之、张僧繇齐名,《与顾恺之、张僧繇齐名》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,29,source_book,格式不规范,警告,与顾恺之、张僧繇齐名,《与顾恺之、张僧繇齐名》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,30,source_book,格式不规范,警告,与张墨有“画圣”之称,《与张墨有“画圣”之称》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,31,source_book,格式不规范,警告,"善长山水画,与宗炳齐名","《善长山水画,与宗炳齐名》",是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,32,source_book,格式不规范,警告,王义恭曾荐炳于宰相,《王义恭曾荐炳于宰相》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,33,source_book,格式不规范,警告,张（僧繇）均效之,《张（僧繇）均效之》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,34,source_book,格式不规范,警告,其兄勃,《其兄勃》,是,source_book 格式不符合规范
+M2.3_社会关系实例（古画品录）.csv,2,relation_type,枚举值错误,警告,陆绥,,否,"relation_type 的值 '陆绥' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,3,relation_type,枚举值错误,警告,陆弘肃,,否,"relation_type 的值 '陆弘肃' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,4,relation_type,枚举值错误,警告,曹不兴,,否,"relation_type 的值 '曹不兴' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,5,relation_type,枚举值错误,警告,卫协,,否,"relation_type 的值 '卫协' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,6,relation_type,枚举值错误,警告,卫协,,否,"relation_type 的值 '卫协' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,7,relation_type,枚举值错误,警告,陆探微,,否,"relation_type 的值 '陆探微' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,8,relation_type,枚举值错误,警告,姚惠觉,,否,"relation_type 的值 '姚惠觉' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,9,relation_type,枚举值错误,警告,刘瑱,,否,"relation_type 的值 '刘瑱' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,10,relation_type,枚举值错误,警告,顾恺之,,否,"relation_type 的值 '顾恺之' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,11,relation_type,枚举值错误,警告,戴顒,,否,"relation_type 的值 '戴顒' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,12,relation_type,枚举值错误,警告,戴勃,,否,"relation_type 的值 '戴勃' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,13,relation_type,枚举值错误,警告,袁蒨,,否,"relation_type 的值 '袁蒨' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,14,relation_type,枚举值错误,警告,陆绥,,否,"relation_type 的值 '陆绥' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,15,relation_type,枚举值错误,警告,吴暕,,否,"relation_type 的值 '吴暕' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,16,relation_type,枚举值错误,警告,张融,,否,"relation_type 的值 '张融' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,17,relation_type,枚举值错误,警告,章继伯,,否,"relation_type 的值 '章继伯' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,18,relation_type,枚举值错误,警告,陆探微,,否,"relation_type 的值 '陆探微' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,19,relation_type,枚举值错误,警告,荀勗,,否,"relation_type 的值 '荀勗' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,20,relation_type,枚举值错误,警告,卫协,,否,"relation_type 的值 '卫协' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,21,relation_type,枚举值错误,警告,荀勗,,否,"relation_type 的值 '荀勗' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,22,relation_type,枚举值错误,警告,卫协,,否,"relation_type 的值 '卫协' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,23,relation_type,枚举值错误,警告,王廙,,否,"relation_type 的值 '王廙' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,24,relation_type,枚举值错误,警告,王羲之,,否,"relation_type 的值 '王羲之' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,25,relation_type,枚举值错误,警告,王廙,,否,"relation_type 的值 '王廙' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,26,relation_type,枚举值错误,警告,刘胤祖,,否,"relation_type 的值 '刘胤祖' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,27,relation_type,枚举值错误,警告,孙权,,否,"relation_type 的值 '孙权' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,28,relation_type,枚举值错误,警告,顾恺之,,否,"relation_type 的值 '顾恺之' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,29,relation_type,枚举值错误,警告,张僧繇,,否,"relation_type 的值 '张僧繇' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,30,relation_type,枚举值错误,警告,张墨,,否,"relation_type 的值 '张墨' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,31,relation_type,枚举值错误,警告,王微,,否,"relation_type 的值 '王微' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,32,relation_type,枚举值错误,警告,宗炳,,否,"relation_type 的值 '宗炳' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,33,relation_type,枚举值错误,警告,顾恺之,,否,"relation_type 的值 '顾恺之' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.3_社会关系实例（古画品录）.csv,34,relation_type,枚举值错误,警告,戴顒,,否,"relation_type 的值 '戴顒' 不在允许范围内: ['Teacher', 'Student', 'Friend', 'Colleague', 'Spouse', 'Parent', 'Child', 'Sibling', 'Other']"
+M2.2_履历与时空轨迹_古画品录.csv,,location_ref,推荐字段缺失率高,警告,,,否,推荐字段 location_ref 缺失率 92.9%
+M2.2_履历与时空轨迹_古画品录.csv,2,source_book,格式不规范,警告,Official_Post,《Official_Post》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,3,source_book,格式不规范,警告,Official_Post,《Official_Post》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,4,source_book,格式不规范,警告,Official_Post,《Official_Post》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,5,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,6,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,7,source_book,格式不规范,警告,Official_Post,《Official_Post》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,8,source_book,格式不规范,警告,Official_Post,《Official_Post》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,9,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,10,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,11,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,12,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,13,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,14,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,15,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,16,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,17,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,18,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,19,source_book,格式不规范,警告,Official_Post,《Official_Post》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,20,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,21,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,22,source_book,格式不规范,警告,Official_Post,《Official_Post》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,23,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,24,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,25,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,26,source_book,格式不规范,警告,Official_Post,《Official_Post》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,27,source_book,格式不规范,警告,Official_Post,《Official_Post》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,28,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M2.2_履历与时空轨迹_古画品录.csv,29,source_book,格式不规范,警告,Travel,《Travel》,是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,,name_cn,必填字段缺失,严重,,,否,表中缺少必填字段: name_cn
+M1.3_图像志题材分类（古画品录）.csv,,source_chapter,推荐字段缺失率高,警告,,,否,推荐字段 source_chapter 缺失率 100.0%
+M1.3_图像志题材分类（古画品录）.csv,,source_text,推荐字段缺失率高,警告,,,否,推荐字段 source_text 缺失率 100.0%
+M1.3_图像志题材分类（古画品录）.csv,2,source_book,格式不规范,警告,"谨细，则逾往烈。始变古体，创为今范。赋彩制形，皆有新意。扇画蝉雀，自景秀始也。宋大明中，莫敢与竞。在第二品，陆绥上。(""历代; 如庖牺的初画八卦，史籀的初创书法一样的有价值。………………取蝉雀来作画，这是骏之（译者按：应改为景秀）开始的，在宋大明年间，","《谨细，则逾往烈。始变古体，创为今范。赋彩制形，皆有新意。扇画蝉雀，自景秀始也。宋大明中，莫敢与竞。在第二品，陆绥上。(""历代; 如庖牺的初画八卦，史籀的初创书法一样的有价值。………………取蝉雀来作画，这是骏之（译者按：应改为景秀）开始的，在宋大明年间，》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,3,source_book,格式不规范,警告,应时蓄水成霧，大雨經旬。故事所云，固然不足信，但可說明不兴画龙是非常有名的。 又曹不兴，有作曹弗兴。（可参看“建業实录”、; “燕人送荆轲图”等并传于代。裴孝源“贞观公私画史”记其在江陵龙兴寺、剡中本纪寺皆有壁画。 〔3〕 **五代** ——年代不,《应时蓄水成霧，大雨經旬。故事所云，固然不足信，但可說明不兴画龙是非常有名的。 又曹不兴，有作曹弗兴。（可参看“建業实录”、; “燕人送荆轲图”等并传于代。裴孝源“贞观公私画史”记其在江陵龙兴寺、剡中本纪寺皆有壁画。 〔3〕 **五代** ——年代不》,是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,4,source_book,格式不规范,警告,"也极妙,至于定质,愧然<sup>〔3〕</sup>未尽其善。神鬼及马,泥滞于射,颇有拙也<sup>〔4〕</sup>。 〔1; v>  他的绘画，显示出有逸宕之才，笔锋多变，表现灵巧，所画神鬼一类，十分绝妙。正是雅俗共赏，卓绝非凡，往往有出人意料之妙。","《也极妙,至于定质,愧然<sup>〔3〕</sup>未尽其善。神鬼及马,泥滞于射,颇有拙也<sup>〔4〕</sup>。 〔1; v>  他的绘画，显示出有逸宕之才，笔锋多变，表现灵巧，所画神鬼一类，十分绝妙。正是雅俗共赏，卓绝非凡，往往有出人意料之妙。》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,5,source_book,格式不规范,警告,">〔2〕</sup>,巧变锋出<sup>〔3〕</sup>。魑魁神鬼，皆能绝妙。固流眞为<sup>〔4〕</sup>，雅郑<","《>〔2〕</sup>,巧变锋出<sup>〔3〕</sup>。魑魁神鬼，皆能绝妙。固流眞为<sup>〔4〕</sup>，雅郑<》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,6,source_book,格式不规范,警告,"按照文句来看,当以“泥滞于时”为妥。据“南齐史”称,“惠远画马第一”,则“泥滞于时”,其意即是惠远所画“神鬼及马”,其表现; 格意匠,其画师法于顾恺之。有“刀戟图”、“中朝名士图”、“白马图”、“骑马变势图”、“叶公好龙图”等并传于代。 〔2〕 *","《按照文句来看,当以“泥滞于时”为妥。据“南齐史”称,“惠远画马第一”,则“泥滞于时”,其意即是惠远所画“神鬼及马”,其表现; 格意匠,其画师法于顾恺之。有“刀戟图”、“中朝名士图”、“白马图”、“骑马变势图”、“叶公好龙图”等并传于代。 〔2〕 *》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,7,source_book,格式不规范,警告,"代名画记”引孙畅“述画记”云,“道硕兄弟四人,并善画。道硕工人马及鹅。”与王微同师法荀勗与卫协,却胜于王微。“历代名画记”并","《代名画记”引孙畅“述画记”云,“道硕兄弟四人,并善画。道硕工人马及鹅。”与王微同师法荀勗与卫协,却胜于王微。“历代名画记”并》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,8,source_book,格式不规范,警告,"“历代名画记”、“画史”及“图绘宝鉴”等书。） 〔2〕 **贤圣** —— “历代名画记”所引,作“圣贤”,以此为宜。 〔3; 逵  </div>  他的绘画，情韵连绵，风趣也很巧拔。善画贤圣图像。为一切画工的典范。荀勗、卫协之后，实为画界的领袖。其子","《“历代名画记”、“画史”及“图绘宝鉴”等书。） 〔2〕 **贤圣** —— “历代名画记”所引,作“圣贤”,以此为宜。 〔3; 逵  </div>  他的绘画，情韵连绵，风趣也很巧拔。善画贤圣图像。为一切画工的典范。荀勗、卫协之后，实为画界的领袖。其子》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,9,source_book,格式不规范,警告,"1〕 **毛惠远** ——南齐时荥阳阳武人。善画马。与刘琪画妇人，并当代第一。其所作“醉客图”,据张彦远所评,笔迹之外,颇有; ** ——南朝宋时人。师法陆探微,兼工仕女,张彦远评其所画“妇人,特为古拙”。谓其有“豫章王宴宾图”、“博弈图”、“声伎图”","《1〕 **毛惠远** ——南齐时荥阳阳武人。善画马。与刘琪画妇人，并当代第一。其所作“醉客图”,据张彦远所评,笔迹之外,颇有; ** ——南朝宋时人。师法陆探微,兼工仕女,张彦远评其所画“妇人,特为古拙”。谓其有“豫章王宴宾图”、“博弈图”、“声伎图”》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,10,source_book,格式不规范,警告,"v>  善于传写,不闲其思<sup>〔2〕</sup>。至于雀鼠,笔迹历落<sup>〔3〕</sup>,往往出群,时人为之语","《v>  善于传写,不闲其思<sup>〔2〕</sup>。至于雀鼠,笔迹历落<sup>〔3〕</sup>,往往出群,时人为之语》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,11,source_book,格式不规范,警告,"要时期,故后人均署谢为“南齐人”,又照姚最之評語来看,谢赫在人物画上的造詣,是谢在南齐时（中兴前）的成就,故姚在評語的結尾即; 卷軸,故为宝也。 〔1〕 **陆绥** ——为陆探微之子。画人物、佛像,得其父传授,为时人所重。其弟弘肃亦擅人物。  ---","《要时期,故后人均署谢为“南齐人”,又照姚最之評語来看,谢赫在人物画上的造詣,是谢在南齐时（中兴前）的成就,故姚在評語的結尾即; 卷軸,故为宝也。 〔1〕 **陆绥** ——为陆探微之子。画人物、佛像,得其父传授,为时人所重。其弟弘肃亦擅人物。  ---》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,12,source_book,格式不规范,警告,"工书画。更能铸佛像及雕刻。“宋书”戴顒传中述及,“自汉世始有佛像,形制未工,逵特善其事”,可知其在宗教美术方面,颇多独创。; 二五年）。最善长画佛像。“历代名画记”引“蔡谟集”云：“帝画佛于乐贤堂,经历寇乱,而堂独存。”唐张彦远亲见晋明帝所作“毛诗","《工书画。更能铸佛像及雕刻。“宋书”戴顒传中述及,“自汉世始有佛像,形制未工,逵特善其事”,可知其在宗教美术方面,颇多独创。; 二五年）。最善长画佛像。“历代名画记”引“蔡谟集”云：“帝画佛于乐贤堂,经历寇乱,而堂独存。”唐张彦远亲见晋明帝所作“毛诗》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,13,source_book,格式不规范,警告,"的“位置”是“经营”的，是随画家苦心组织和布置的，所以中国的山水画，便不受焦点透视的局限，能够机动的、巧妙的运用透视，因而就; 戴顒字仲若,善鼓琴,且精于雕像。其兄勃,亦有父风。擅画人物、山水。“宋书”中载：“宋世子铸丈六铜佛像于瓦棺寺,既成,而恨面瘦","《的“位置”是“经营”的，是随画家苦心组织和布置的，所以中国的山水画，便不受焦点透视的局限，能够机动的、巧妙的运用透视，因而就; 戴顒字仲若,善鼓琴,且精于雕像。其兄勃,亦有父风。擅画人物、山水。“宋书”中载：“宋世子铸丈六铜佛像于瓦棺寺,既成,而恨面瘦》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,14,source_book,格式不规范,警告,"却胜于王微。“历代名画记”并载其有“古贤图”、“金谷图”、“鹅图”、“牛图”、“七贤图”、“八骏图”、“嵇中散诗图”、“燕; 记”引孙畅“述画记”云,“道硕兄弟四人,并善画。道硕工人马及鹅。”与王微同师法荀勗与卫协,却胜于王微。“历代名画记”并载其","《却胜于王微。“历代名画记”并载其有“古贤图”、“金谷图”、“鹅图”、“牛图”、“七贤图”、“八骏图”、“嵇中散诗图”、“燕; 记”引孙畅“述画记”云,“道硕兄弟四人,并善画。道硕工人马及鹅。”与王微同师法荀勗与卫协,却胜于王微。“历代名画记”并载其》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,15,source_book,格式不规范,警告,。“历代名画记”并载其有“古贤图”、“金谷图”、“鹅图”、“牛图”、“七贤图”、“八骏图”、“嵇中散诗图”、“燕人送荆轲图,《。“历代名画记”并载其有“古贤图”、“金谷图”、“鹅图”、“牛图”、“七贤图”、“八骏图”、“嵇中散诗图”、“燕人送荆轲图》,是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,16,source_book,格式不规范,警告,"迹之外,颇有风格意匠,其画师法于顾恺之。有“刀戟图”、“中朝名士图”、“白马图”、“骑马变势图”、“叶公好龙图”等并传于代。; 画记”并载其有“古贤图”、“金谷图”、“鹅图”、“牛图”、“七贤图”、“八骏图”、“嵇中散诗图”、“燕人送荆轲图”等并传于代","《迹之外,颇有风格意匠,其画师法于顾恺之。有“刀戟图”、“中朝名士图”、“白马图”、“骑马变势图”、“叶公好龙图”等并传于代。; 画记”并载其有“古贤图”、“金谷图”、“鹅图”、“牛图”、“七贤图”、“八骏图”、“嵇中散诗图”、“燕人送荆轲图”等并传于代》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,17,source_book,格式不规范,警告,"人。少聪慧,多才艺,饮酒至数斗。与毛惠远齐名。擅画妇女,有“捣衣图”、“吴中行舟图”等传于代。（可参看“齐书”本传、“历代名","《人。少聪慧,多才艺,饮酒至数斗。与毛惠远齐名。擅画妇女,有“捣衣图”、“吴中行舟图”等传于代。（可参看“齐书”本传、“历代名》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,18,source_book,格式不规范,警告,"张彦远评其所画“妇人,特为古拙”。谓其有“豫章王宴宾图”、“博弈图”、“声伎图”等作品传于世。又“历代名画记”将“袁蒨”的“","《张彦远评其所画“妇人,特为古拙”。谓其有“豫章王宴宾图”、“博弈图”、“声伎图”等作品传于世。又“历代名画记”将“袁蒨”的“》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,19,source_book,格式不规范,警告,"书”中谓：“俗传恺之有三绝,才超、画绝、痴绝”。曾于瓦棺寺画维摩诘像,博得观众称赞。现存“女史箴图”,传即为顾之手笔。其画论著","《书”中谓：“俗传恺之有三绝,才超、画绝、痴绝”。曾于瓦棺寺画维摩诘像,博得观众称赞。现存“女史箴图”,传即为顾之手笔。其画论著》",是,source_book 格式不符合规范
+M1.3_图像志题材分类（古画品录）.csv,20,source_book,格式不规范,警告,"”中载,“廙画为晋明帝师,书为右军法。时右军亦学画于廙,廙画孔子十弟子”以示,并作赞于此图。其详可参阅“历代名画记”。  <","《”中载,“廙画为晋明帝师,书为右军法。时右军亦学画于廙,廙画孔子十弟子”以示,并作赞于此图。其详可参阅“历代名画记”。  <》",是,source_book 格式不符合规范

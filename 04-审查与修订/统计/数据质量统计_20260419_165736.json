@@ -1,0 +1,154 @@
+{
+  "审查时间": "2026-04-19 16:57:36",
+  "审查范围": [
+    "/Users/a1234/Desktop/中国人物画知识图谱/03-初步抽取/古画品录/M3.1_作品实体表（古画品录）.csv",
+    "/Users/a1234/Desktop/中国人物画知识图谱/03-初步抽取/古画品录/M1.2_空间地理本体_古画品录.csv",
+    "/Users/a1234/Desktop/中国人物画知识图谱/03-初步抽取/古画品录/M3.2_文献著录与品评（古画品录）.csv",
+    "/Users/a1234/Desktop/中国人物画知识图谱/03-初步抽取/古画品录/M2.3_社会关系实例（古画品录）.csv",
+    "/Users/a1234/Desktop/中国人物画知识图谱/03-初步抽取/古画品录/M2.2_履历与时空轨迹_古画品录.csv",
+    "/Users/a1234/Desktop/中国人物画知识图谱/03-初步抽取/古画品录/M2.1_历史人物_古画品录.csv",
+    "/Users/a1234/Desktop/中国人物画知识图谱/03-初步抽取/古画品录/M1.3_图像志题材分类（古画品录）.csv",
+    "/Users/a1234/Desktop/中国人物画知识图谱/03-初步抽取/古画品录/M1.1_时序本体_古画品录.csv"
+  ],
+  "统计摘要": {
+    "文件总数": 8,
+    "记录总数": 257,
+    "问题总数": 507,
+    "严重问题": 8,
+    "警告问题": 499,
+    "自动修复": 236,
+    "需人工处理": 271
+  },
+  "表级统计": {
+    "作品实体表 (Work)": {
+      "记录数": 44,
+      "必填字段完整率": 1.0,
+      "推荐字段完整率": 0.75,
+      "字段覆盖率": {
+        "work_id": 1.0,
+        "title": 1.0,
+        "creator_ref": 1.0,
+        "period_ref": 1.0,
+        "icon_ref": 1.0,
+        "status": 1.0,
+        "support": 0.9772727272727273,
+        "dimensions": 0.06818181818181818,
+        "repository": 0.18181818181818182,
+        "source_book": 1.0,
+        "source_chapter": 1.0,
+        "source_text": 0.0
+      }
+    },
+    "空间地理本体 (Spatial Ontology)": {
+      "记录数": 48,
+      "必填字段完整率": 0.6666666666666666,
+      "推荐字段完整率": 1.0,
+      "字段覆盖率": {
+        "location_id": 1.0,
+        "historical_names": 1.0,
+        "modern_address": 1.0,
+        "coordinates": 1.0,
+        "source_book": 0.8541666666666666,
+        "source_chapter": 0.8541666666666666,
+        "source_text": 1.0
+      }
+    },
+    "文献著录与品评 (Literature)": {
+      "记录数": 27,
+      "必填字段完整率": 1.0,
+      "推荐字段完整率": 1.0,
+      "字段覆盖率": {
+        "lit_id": 1.0,
+        "target_ref": 1.0,
+        "source_book": 1.0,
+        "source_chapter": 1.0,
+        "author_ref": 1.0,
+        "quality_rank": 1.0,
+        "quote": 1.0,
+        "source_text": 0.0
+      }
+    },
+    "社会关系实例 (Relation)": {
+      "记录数": 33,
+      "必填字段完整率": 1.0,
+      "推荐字段完整率": 0.3333333333333333,
+      "字段覆盖率": {
+        "rel_id": 1.0,
+        "source_id": 1.0,
+        "target_id": 1.0,
+        "relation_type": 1.0,
+        "formal_name": 1.0,
+        "source_book": 1.0,
+        "source_chapter": 0.0,
+        "source_text": 0.0
+      }
+    },
+    "履历与时空轨迹 (CV)": {
+      "记录数": 28,
+      "必填字段完整率": 1.0,
+      "推荐字段完整率": 0.5,
+      "字段覆盖率": {
+        "cv_id": 1.0,
+        "person_ref": 1.0,
+        "entry_mode": 1.0,
+        "official_title": 0.03571428571428571,
+        "rank": 0.35714285714285715,
+        "tenure": 0.32142857142857145,
+        "location_ref": 0.07142857142857142,
+        "time_ref": 0.6785714285714286,
+        "event_type": 1.0,
+        "source_book": 1.0,
+        "source_chapter": 1.0,
+        "source_text": 1.0
+      }
+    },
+    "历史人物核心表 (Person)": {
+      "记录数": 28,
+      "必填字段完整率": 1.0,
+      "推荐字段完整率": 1.0,
+      "字段覆盖率": {
+        "person_id": 1.0,
+        "primary_role": 1.0,
+        "name": 1.0,
+        "courtesy_name": 0.25,
+        "pseudonym": 0.07142857142857142,
+        "other_names": 0.32142857142857145,
+        "choronym": 0.5,
+        "birth_death": 1.0,
+        "period_ref": 1.0,
+        "authority_ids": 1.0,
+        "source_book": 1.0,
+        "source_chapter": 1.0,
+        "source_text": 1.0
+      }
+    },
+    "图像志题材分类 (Iconography)": {
+      "记录数": 19,
+      "必填字段完整率": 0.6666666666666666,
+      "推荐字段完整率": 0.3333333333333333,
+      "字段覆盖率": {
+        "icon_id": 1.0,
+        "name": 1.0,
+        "parent_id": 1.0,
+        "visual_elements": 1.0,
+        "source_book": 1.0,
+        "source_chapter": 0.0,
+        "source_text": 0.0
+      }
+    },
+    "时序本体 (Temporal Ontology)": {
+      "记录数": 30,
+      "必填字段完整率": 1.0,
+      "推荐字段完整率": 1.0,
+      "字段覆盖率": {
+        "period_id": 1.0,
+        "name": 1.0,
+        "time_range": 1.0,
+        "dynastic_info": 1.0,
+        "source_book": 1.0,
+        "source_chapter": 1.0,
+        "source_text": 1.0
+      }
+    }
+  }
+}

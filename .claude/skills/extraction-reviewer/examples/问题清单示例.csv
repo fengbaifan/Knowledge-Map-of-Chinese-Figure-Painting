@@ -1,0 +1,6 @@
+file,row,field,issue_type,severity,current_value,suggested_value,auto_fixed,status,description
+2.1_历史人物核心表.csv,-,source.chapter,字段名错误,警告,source.chapter,source_chapter,true,✅ 已自动修复,字段名应使用下划线而非点号
+2.1_历史人物核心表.csv,-,originalsource_sentence,字段名错误,警告,originalsource_sentence,source_text,true,✅ 已自动修复,字段名不符合规范
+2.1_历史人物核心表.csv,4,source_book,格式不规范,警告," ""《续画品》""",《续画品》,true,✅ 已自动修复,书名包含多余引号
+2.1_历史人物核心表.csv,5,source_book,格式不规范,警告," ""《续画品》""",《续画品》,true,✅ 已自动修复,书名包含多余引号
+2.1_历史人物核心表.csv,19,source_book,格式不规范,警告,释迦佛陀 吉底俱 摩罗菩提,《释迦佛陀 吉底俱 摩罗菩提》,true,✅ 已自动修复,书名缺少书名号
