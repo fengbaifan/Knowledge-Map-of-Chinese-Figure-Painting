@@ -1,0 +1,23 @@
+﻿person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,source_text
+meso_yao_zui,Scholar,姚最,士会,,"[""北绛郡公""]",吴兴武康,"{""birth"": 535, ""death"": 602, ""period_ref"": ""period_chen""}",period_chen,"{""Wikidata"": ""Q11082695""}",《续画品》,序/注释,"(注释)最字士会, 幼而聪敏, 及長, 博通經史, 尤好著述...最竟坐誅, 时年六十七...夫丹青妙極, 未易言尽...但事有否泰, 人經盛衰。或弱龄而价重, 或壯齿而声道。"
+meso_xiao_yi,Painter,萧绎,世诚,,"[""小字七符"", ""湘东郡王"", ""梁元帝"", ""湘东殿下""]",南兰陵,"{""birth"": 508, ""death"": 555, ""period_ref"": ""period_liang""}",period_liang,"{""CBDB"": ""32145"", ""Wikidata"": ""Q7269""}",《续画品》,湘东殿下,"右天挺命世,幼稟生知,学穷性表,心师造化,非复景行,所能希涉。 画有“六法”,真仙为难。 王于象人,特尽神妙,心敏手运,不加点治。 斯乃听訟部領之隙,文談众艺之余,时复遇物援毫,造次惊絕。 足使荀、衛閣笔,袁、陆韬翰。 圖制虽寡,声聞于外,非复討論木訥,可得而称焉。"
+meso_liu_pu,Painter,刘璞,,,,,"{""period_ref"": ""period_song""}",period_song,,《续画品》,刘璞,"右胤祖之子,少習門風,至老笔法不渝前制。 体韻精研,亞于其父。 信代有其人,茲名不墮矣!"
+meso_shen_biao,Painter,沈标,,,,,"{""period_ref"": ""period_qi""}",period_qi,,《续画品》,沈标,右虽無偏擅，触类皆涉。性尚鉛华，甚能留意。虽未臻全美，殊有可观 。
+meso_xie_he,Painter,谢赫,,,,,"{""birth"": 459, ""death"": 532, ""period_ref"": ""period_qi""}",period_qi,"{""Wikidata"": ""Q1276063""}",《续画品》,谢赫,右写貌人物，不俟对看，所须一覽，便工操笔。点刷研精，意在切似。目想毫髮，皆無遺失。丽服親粧，随时变改。直眉曲髯，与世事新。别体細微，多自赫始。遂使委巷逐末，皆类效顰。至于气运精灵，未穷生动之致。笔路纖弱，不副壯雅之怀。然中兴以后，象人莫及 。
+meso_mao_huixiu,Painter,毛惠秀,,,,荥阳阳武,"{""period_ref"": ""period_qi""}",period_qi,,《续画品》,毛惠秀,右其于繪事，頗为詳悉。太自矜持，番成贏鈍。遒勁不及惠远，委曲有过于稜 。
+meso_xiao_ben,Painter,萧贲,文奂,,,兰陵,"{""period_ref"": ""period_liang""}",period_liang,"{""CBDB"": ""8321""}",《续画品》,萧贲,右雅性精密，后来难尚。含毫命素，动必依真。尝画团扇，上为山川，咫尺之内，而瞻万里之遙；方寸之中，乃辨千寻之峻。学不为人，自娱而已。虽有好事，罕見其迹 。
+meso_shen_can,Painter,沈粲,,,,,"{""period_ref"": ""period_qi""}",period_qi,,《续画品》,沈粲,右笔迹調媚，專工綺罗。屏障所圖，頗有情趣 。
+meso_zhang_sengyao,Painter,张僧繇,,,"[""张家样""]",吴兴,"{""period_ref"": ""period_liang""}",period_liang,"{""Wikidata"": ""Q197259""}",《续画品》,张僧繇,右善圖塔庙，超越羣工。朝衣野服，今古不失，奇形異貌，殊方夷夏，实参其妙。俾晝作夜，未尝厌息；惟公及私，手不釋笔。但数紀之內，無須臾之間。然聖賢目矚，小乏神气，豈可求备于一人。虽云晚出，殆亞前品 。
+meso_lu_su,Painter,陆肃,,,"[""陆弘肃""]",吴,"{""period_ref"": ""period_song""}",period_song,,《续画品》,陆肃,右綏之弟，早籍趋庭之教，未尽敦閱之勤；虽复所得不多，犹有名家之法。方效輪扁，甘苦难投 。
+meso_mao_leng,Painter,毛稜,,,,,"{""period_ref"": ""period_qi""}",period_qi,,《续画品》,毛稜,右惠远之子，便捷有余，真巧不足，善于佈置，略不煩草。若比方諸父，則牀上安牀 。
+meso_ji_baojun,Painter,嵇宝钧,,,,,"{""period_ref"": ""period_liang""}",period_liang,,《续画品》,嵇宝钧 聂松,右二人無的师范，而意兼眞俗。賦彩鮮丽，观者悅情。若辨其优劣，則僧繇之亞 。
+meso_nie_song,Painter,聂松,,,,,"{""period_ref"": ""period_liang""}",period_liang,,《续画品》,嵇宝钧 聂松,右二人無的师范，而意兼眞俗。賦彩鮮丽，观者悅情。若辨其优劣，則僧繇之亞 。
+meso_jiao_baoyuan,Painter,焦宝愿,,,,,"{""period_ref"": ""period_liang""}",period_liang,,《续画品》,焦宝愿,右虽早游張謝，而靳固不傳。旁求造請，事均盜道之法。殫極斷輪，遂至兼采之勤。衣文树色，时表新異；点黛施朱，重輕不失。虽未穷秋駕，而見賞春坊，輪奏薄伎，謬得其地。今衣冠緒裔，未闻好学，丹青道堙，良足为慨 。
+meso_yuan_zhi,Painter,袁质,,,,陈郡阳夏,"{""period_ref"": ""period_song""}",period_song,,《续画品》,袁质,右蒨之子，風神俊爽，不墜家声。始逾志学之年，便嬰痛之病。曾見草“庄周木鴈”、“卞和抱璞”兩圖，笔势道正，繼父之美。若方之体物，則伯仁龙馬之頌；比之書翰，則長胤狸骨之力。虽复語迹異途，而妙理同归一致。苗而不实，有足悲者。無名之貴，諒在斯人 。
+meso_shi_sengzhen,Painter,释僧珍,,,,,"{""period_ref"": ""period_qi""}",period_qi,,《续画品》,释僧珍 释僧觉,右珍，蘧道愍之甥；覚，姚曇度之子。并弱年漸漬，亲承訓勗。珍乃易于酷似，覚豈难負析薪。染服之中，有斯二道。若品其工拙，盖嵇、聶之流 。
+meso_shi_sengjue,Painter,释僧觉,,,"[""惠觉""]",,"{""period_ref"": ""period_qi""}",period_qi,,《续画品》,释僧珍 释僧觉,右珍，蘧道愍之甥；覚，姚曇度之子。并弱年漸漬，亲承訓勗。珍乃易于酷似，覚豈难負析薪。染服之中，有斯二道。若品其工拙，盖嵇、聶之流 。
+meso_shijia_fotuo,Painter,释迦佛陀,,,天竺,"{""period_ref"": ""period_wei""}",period_wei,," ""《续画品》""",《释迦佛陀 吉底俱 摩罗菩提》,右此数手，并外国比丘，既华戎殊体，無以定其差品。光宅威公雅就好此法，下笔之妙，颇为京洛所知聞 。,
+meso_jidiju,Painter,吉底俱,,,,,"{""period_ref"": ""period_wei""}",period_wei,,《续画品》,释迦佛陀 吉底俱 摩罗菩提,右此数手，并外国比丘，既华戎殊体，無以定其差品。光宅威公雅就好此法，下笔之妙，颇为京洛所知聞 。
+meso_moluoputi,Painter,摩罗菩提,,,,,"{""period_ref"": ""period_wei""}",period_wei,,《续画品》,释迦佛陀 吉底俱 摩罗菩提,右此数手，并外国比丘，既华戎殊体，無以定其差品。光宅威公雅就好此法，下笔之妙，颇为京洛所知聞 。
+meso_wei_gong,Painter,威公,,,光宅寺,"{""period_ref"": ""period_liang""}",period_liang,," ""《续画品》""",《释迦佛陀 吉底俱 摩罗菩提》,右此数手，并外国比丘，既华戎殊体，無以定其差品。光宅威公雅就好此法，下笔之妙，颇为京洛所知聞 。,
+meso_xie_qian,Painter,解蒨,,,,,"{""period_ref"": ""period_liang""}",period_liang,,《续画品》,解蒨,右全法章、蘧，笔力不逮。通变巧捷，寺壁最長 。

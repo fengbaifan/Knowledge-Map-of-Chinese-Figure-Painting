@@ -1,0 +1,20 @@
+﻿文件名,行号,字段名,问题类型,严重程度,当前值,建议值,是否已修复,问题描述
+2.1_历史人物核心表.csv,,source.chapter,字段名错误,警告,source.chapter,source_chapter,是,字段名应为 source_chapter
+2.1_历史人物核心表.csv,,originalsource_sentence,字段名错误,警告,originalsource_sentence,source_text,是,字段名应为 source_text
+2.1_历史人物核心表.csv,4,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,5,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,7,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,9,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,11,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,12,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,13,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,14,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,15,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,16,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,17,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,18,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,19,source_book,格式不规范,警告,释迦佛陀 吉底俱 摩罗菩提,《释迦佛陀 吉底俱 摩罗菩提》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,20,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,21,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,22,source_book,格式不规范,警告,释迦佛陀 吉底俱 摩罗菩提,《释迦佛陀 吉底俱 摩罗菩提》,是,source_book 格式不符合规范
+2.1_历史人物核心表.csv,23,source_book,格式不规范,警告," ""《续画品》""",《续画品》,是,source_book 格式不符合规范

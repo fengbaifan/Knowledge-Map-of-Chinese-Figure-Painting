@@ -10,6 +10,7 @@ import sys
 import json
 import re
 import argparse
+import subprocess
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Tuple, Any
@@ -40,7 +41,8 @@ class ExtractionReviewer:
                 "file": file_path,
                 "error": f"文件读取失败: {str(e)}",
                 "issues": [],
-                "stats": {}
+                "stats": {},
+                "record_count": 0
             }
 
         # 推断表类型
@@ -360,6 +362,8 @@ class ExtractionReviewer:
         self._generate_stats_json(results, stats_path, timestamp)
 
         # 保存修订后的数据
+        modified_files = []
+        original_files = []
         for result in results:
             if result.get('dataframe') is not None:
                 df_fixed = self.auto_fix(result)
@@ -367,6 +371,8 @@ class ExtractionReviewer:
                 name_without_ext = os.path.splitext(filename)[0]
                 revised_path = os.path.join(revised_dir, f"{name_without_ext}_修订版_{timestamp}.csv")
                 df_fixed.to_csv(revised_path, index=False, encoding='utf-8-sig')
+                modified_files.append(revised_path)
+                original_files.append(result['file'])
 
         print(f"\n✅ 审查完成！")
         print(f"\n📁 生成文件：")
@@ -374,6 +380,15 @@ class ExtractionReviewer:
         print(f"  - 问题清单: {issues_path}")
         print(f"  - 质量统计: {stats_path}")
         print(f"  - 修订数据: {revised_dir}/ ({len(results)} 个文件)")
+
+        # 调用 change-logger 记录变更
+        if modified_files and len(self.fixes) > 0:
+            self._call_change_logger(
+                modified_files=modified_files,
+                original_files=original_files,
+                report_file=report_path,
+                issue_list_file=issues_path
+            )
 
     def _generate_markdown_report(self, results: List[Dict], output_path: str, timestamp: str):
         """生成 Markdown 格式的审查报告"""
@@ -418,8 +433,11 @@ class ExtractionReviewer:
         report += "\n### 2.2 字段覆盖率详情\n\n"
 
         for result in results:
+            if 'error' in result:
+                continue
             report += f"**{result.get('table_name', '未知')}**：\n"
-            for field, coverage in result['stats']['field_coverage'].items():
+            field_coverage = result.get('stats', {}).get('field_coverage', {})
+            for field, coverage in field_coverage.items():
                 rate = coverage['coverage_rate'] * 100
                 status = "✅" if rate == 100 else ("⚠️" if rate >= 50 else "❌")
                 report += f"- {field}: {rate:.1f}% {status}\n"
@@ -530,19 +548,76 @@ class ExtractionReviewer:
         }
 
         for result in results:
+            if 'error' in result:
+                continue
             table_name = result.get('table_name', '未知')
+            field_coverage = result.get('stats', {}).get('field_coverage', {})
             stats["表级统计"][table_name] = {
                 "记录数": result['record_count'],
-                "必填字段完整率": result['stats'].get('required_completeness', 0),
-                "推荐字段完整率": result['stats'].get('recommended_completeness', 0),
+                "必填字段完整率": result.get('stats', {}).get('required_completeness', 0),
+                "推荐字段完整率": result.get('stats', {}).get('recommended_completeness', 0),
                 "字段覆盖率": {
                     field: coverage['coverage_rate']
-                    for field, coverage in result['stats']['field_coverage'].items()
+                    for field, coverage in field_coverage.items()
                 }
             }
 
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(stats, f, ensure_ascii=False, indent=2)
+
+    def _call_change_logger(self, modified_files: List[str], original_files: List[str],
+                           report_file: str, issue_list_file: str):
+        """调用 change-logger 记录变更"""
+        try:
+            # 构建修改原因
+            fix_types = {}
+            for fix in self.fixes:
+                fix_type = fix['type']
+                fix_types[fix_type] = fix_types.get(fix_type, 0) + 1
+
+            reason_parts = []
+            for fix_type, count in fix_types.items():
+                reason_parts.append(f"{fix_type}（{count}处）")
+
+            reason = f"extraction-reviewer 自动修复：{', '.join(reason_parts)}"
+
+            # 获取 change-logger 脚本路径
+            current_dir = Path(__file__).parent
+            skills_dir = current_dir.parent.parent
+            logger_script = skills_dir / 'change-logger' / 'scripts' / 'logger.py'
+
+            if not logger_script.exists():
+                print(f"\n⚠️ 未找到 change-logger 脚本: {logger_script}")
+                return
+
+            # 构建命令
+            cmd = [
+                sys.executable,
+                str(logger_script),
+                '--files', *modified_files,
+                '--reason', reason,
+                '--report-file', report_file,
+                '--issue-list-file', issue_list_file
+            ]
+
+            # 添加原始文件参数（如果只有一个文件）
+            if len(original_files) == 1:
+                cmd.extend(['--original-file', original_files[0]])
+
+            # 执行命令
+            result = subprocess.run(cmd, capture_output=True, text=True)
+
+            if result.returncode == 0:
+                print(f"\n📝 变更日志已记录")
+                # 提取日志文件路径
+                for line in result.stdout.split('\n'):
+                    if '变更日志已记录到' in line:
+                        print(f"  {line.strip()}")
+            else:
+                print(f"\n⚠️ 变更日志记录失败: {result.stderr}")
+
+        except Exception as e:
+            print(f"\n⚠️ 调用 change-logger 失败: {e}")
 
 
 def main():

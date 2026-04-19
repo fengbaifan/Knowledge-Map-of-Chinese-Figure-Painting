@@ -42,23 +42,40 @@ class GitDiffParser:
         except:
             return []
 
-    def get_diff(self) -> str:
-        """获取文件的 git diff 输出"""
+    def get_diff(self, original_file: Optional[str] = None) -> str:
+        """获取文件的 git diff 输出
+
+        Args:
+            original_file: 可选的原始文件路径，用于对比两个文件
+        """
         try:
-            result = subprocess.run(
-                ['git', 'diff', self.file_path],
-                capture_output=True,
-                text=True,
-                cwd=Path(self.file_path).parent
-            )
+            if original_file:
+                # 对比两个文件
+                result = subprocess.run(
+                    ['git', 'diff', '--no-index', original_file, self.file_path],
+                    capture_output=True,
+                    text=True
+                )
+            else:
+                # 对比工作区变更
+                result = subprocess.run(
+                    ['git', 'diff', self.file_path],
+                    capture_output=True,
+                    text=True,
+                    cwd=Path(self.file_path).parent
+                )
             return result.stdout
         except Exception as e:
             print(f"⚠️ 获取 git diff 失败：{e}")
             return ""
 
-    def parse_diff(self) -> List[Dict]:
-        """解析 diff 输出，返回变更列表"""
-        diff_output = self.get_diff()
+    def parse_diff(self, original_file: Optional[str] = None) -> List[Dict]:
+        """解析 diff 输出，返回变更列表
+
+        Args:
+            original_file: 可选的原始文件路径，用于对比两个文件
+        """
+        diff_output = self.get_diff(original_file)
 
         if not diff_output:
             return []
@@ -67,38 +84,47 @@ class GitDiffParser:
         hunk_pattern = r'@@ -(\d+),(\d+) \+(\d+),(\d+) @@'
 
         lines = diff_output.split('\n')
-        current_line_num = 0
+        i = 0
 
-        for i, line in enumerate(lines):
+        while i < len(lines):
+            line = lines[i]
+
             # 匹配 hunk 头
             hunk_match = re.match(hunk_pattern, line)
             if hunk_match:
                 old_start, old_count, new_start, new_count = map(int, hunk_match.groups())
-                current_line_num = new_start
-                continue
 
-            # 匹配变更行
-            if line.startswith('-') and not line.startswith('---'):
-                # 删除的行
-                old_line = line[1:]
-                # 查找对应的新增行
-                if i + 1 < len(lines) and lines[i + 1].startswith('+'):
-                    new_line = lines[i + 1][1:]
+                # 收集这个 hunk 中的所有删除行和新增行
+                old_lines = []
+                new_lines = []
+                j = i + 1
 
-                    # 对比字段
+                while j < len(lines):
+                    if lines[j].startswith('@@'):
+                        # 遇到下一个 hunk
+                        break
+                    elif lines[j].startswith('-') and not lines[j].startswith('---'):
+                        old_lines.append(lines[j][1:])
+                    elif lines[j].startswith('+') and not lines[j].startswith('+++'):
+                        new_lines.append(lines[j][1:])
+                    elif lines[j].startswith('diff --git'):
+                        # 遇到下一个文件
+                        break
+                    j += 1
+
+                # 逐行对比（假设行数相同）
+                for line_idx, (old_line, new_line) in enumerate(zip(old_lines, new_lines)):
                     field_changes = self._compare_lines(old_line, new_line)
 
                     if field_changes:
                         changes.append({
-                            'line_num': current_line_num,
+                            'line_num': new_start + line_idx,
                             'field_changes': field_changes
                         })
 
-                current_line_num += 1
-            elif line.startswith('+') and not line.startswith('+++'):
-                current_line_num += 1
-            elif not line.startswith('-') and not line.startswith('+'):
-                current_line_num += 1
+                i = j
+            else:
+                i += 1
 
         return changes
 
@@ -331,7 +357,7 @@ class ChangeLogger:
             for file_path in modified_files:
                 if Path(file_path).exists() and file_path.endswith('.csv'):
                     parser = GitDiffParser(file_path)
-                    file_changes = parser.parse_diff()
+                    file_changes = parser.parse_diff(original_file)
                     changes[file_path] = file_changes
 
             # 创建新记录
