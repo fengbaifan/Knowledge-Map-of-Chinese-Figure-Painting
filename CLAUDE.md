@@ -118,6 +118,7 @@ change-logger 自动触发
 - **编码**：UTF-8-BOM
 - **索引**：始终使用 `index_col=False`
 - **行号**：CSV 行号 = DataFrame 索引 + 2
+- **结构验证**：处理前后必须验证列数与数据行字段数一致，防止逗号、换行符导致的结构错位
 
 详细规范见：[.claude/references/csv-handling.md](.claude/references/csv-handling.md)
 
