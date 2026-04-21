@@ -1,4 +1,4 @@
-location_id,name,type,historical_names,modern_address,coordinates,source_book,source.chapter,originalsource_sentence
+location_id,name,type,historical_names,modern_address,coordinates,source_book,source_chapter,source_text
 loc_e52fc871,九州,Admin_Region,,中国全境,"35.8617, 104.1954",《贞观公私画史》,画目,> 九州名山圖（《梁大清目》所有）朝陽谷神風水圖　秦始皇東游圖　右三卷，戴勃畫，隋朝官本 。 立釋迦像（《太清目》無）　周盤龍像
 loc_74b23373,博陵,Admin_Region,,河北省定州市/安平县,"38.2167, 115.5167",《贞观公私画史》,画目,**右寺四十所，並是名工真跡 。今東都古畫尚多，未得檢閱爾 。今集檢前蹤，取其法度，兼之巧思，維二閻楊陸迥出常表，袁張兩家父子，亦得居其次 。閻本師祖張公，可謂青出於藍矣 。至於人物衣冠、車馬台閣，並得南北之妙 。杨、張父子亦謂世不乏賢 。博陵大安，誠曰難兄難弟 。世之學者，陳善見、王知慎之流，萬得其一，固未及於風神，尚汲汲於形似 。今人所蓄，多是陳王寫拓，都非楊鄭之真筆，每將真玩，深宜精別也 。**
 loc_dd90f465,吳中,Admin_Region,,江苏省苏州市,"31.2989, 120.5853",《贞观公私画史》,画目,> 尚平子圖　董威輦詩圖　嵇阮像　胡人獻獸圖漁父圖　十九首詩圖　五天羅漢像　杜征南人物圖吳中溪山邑居圖　黑獅子圖　名马圖 ||| > 朝臣像　吳中舟行圖　少年行樂圖（上二卷《太清目》所有）

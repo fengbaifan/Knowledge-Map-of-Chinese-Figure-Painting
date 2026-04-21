@@ -1,4 +1,4 @@
-cv_id,person_ref,official_title,entry_mode,event_type,location_ref,time_ref,source_book,source.chapter,originalsource_sentence
+cv_id,person_ref,official_title,entry_mode,event_type,location_ref,time_ref,source_book,source_chapter,source_text
 cv_hanwang_01,汉王元昌,汉王,,Official_Post,长安(推测),,《唐朝名画录》,序 物理页面第1页,"汉王元昌 善画马"
 cv_jiangduwang_01,江都王,江都王,,Official_Post,长安(推测),,《唐朝名画录》,序 物理页面第1页,"江都王 善画雀蝉"
 cv_jiangduwang_02,江都王,,,Travel,潞府,明皇时(712-756),《唐朝名画录》,序 物理页面第1页,"应制明皇潞府 《九瑞应图》"

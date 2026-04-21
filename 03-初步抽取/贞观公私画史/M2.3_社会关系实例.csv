@@ -1,4 +1,4 @@
-﻿rel_id,source_id,target_id,relation_type,formal_name,source_book,source_chapter,originalsource_sentence
+﻿rel_id,source_id,target_id,relation_type,formal_name,source_book,source_chapter,source_text
 rel_9bcdc40c,李元昌,裴孝源,Friendship,商榷精奥,《贞观公私画史》,卷一·序,大唐漢王元昌每燕時暇日，多與其流商榷精奧，以予耿尚，嘗賜討論 。
 rel_f484555b,张善果,张僧繇,Kinship,父子,《贞观公私画史》,卷一·画目,（善果畫，《太清目》所不載。或云：「善果，僧繇之子。」...）
 rel_265c64c7,张儒童,张僧繇,Kinship,父子,《贞观公私画史》,卷一·画目,右二卷，張儒童畫 。（僧繇之子，《太清目》不載）

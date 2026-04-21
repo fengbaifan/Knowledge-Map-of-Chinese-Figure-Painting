@@ -1,4 +1,4 @@
-﻿rel_id,source_id,source_name_cn,target_id,target_name_cn,relation_type,formal_name,source_book,source_chapter,originalsource_sentence
+﻿rel_id,source_id,source_name_cn,target_id,target_name_cn,relation_type,formal_name,source_book,source_chapter,source_text
 rel_932bd17a,P_18860,範瓊,P_34126,陳皓,Colleague,同手/合作,《益州名画录》,卷上,"開成年與陳皓、彭堅同時同藝, 寓居蜀城"
 rel_fb669ada,P_18860,範瓊,P_99542,彭堅,Colleague,同手/合作,《益州名画录》,卷上,"開成年與陳皓、彭堅同時同藝, 寓居蜀城"
 rel_c0de1c20,P_32636,趙溫奇,P_45855,趙公祐,Kinship,父子/祖孫,《益州名画录》,卷上,"趙溫奇者, 公祐子也"

@@ -1,4 +1,4 @@
-work_id,title,creator_ref,creator_name_cn,period_ref,period_name_cn,icon_ref,status,support,dimensions,repository,source_book,source.chapter,originalsource_sentence
+work_id,title,creator_ref,creator_name_cn,period_ref,period_name_cn,icon_ref,status,support,dimensions,repository,source_book,source_chapter,source_text
 work_xiaoyi_01,职贡图,meso_xiao_yi,萧绎,period_liang,南朝梁,icon_figure,Lost,Silk,,,《续画品录》,全卷·湘东殿下,尝绘“职贡图”，描写外国来献之事。
 work_xiaoyi_02,芙蓉湖醮鼎图,meso_xiao_yi,萧绎,period_liang,南朝梁,icon_event,Lost,Silk,,,《续画品录》,全卷·湘东殿下,并画有“芙蓉湖醮鼎图”等
 work_xiaoyi_03,九楼仙灵图,meso_xiao_yi,萧绎,period_liang,南朝梁,icon_religious,Lost,Wall,,,《续画品录》,全卷·湘东殿下,故九楼之上，备表仙灵

@@ -1,4 +1,4 @@
-icon_id,name,work_title,artist_name,parent_id,visual_elements,source_book,source.chapter,originalsource_sentence
+icon_id,name,work_title,artist_name,parent_id,visual_elements,source_book,source_chapter,source_text
 icon_horse,"{""zh"": ""马""}",,汉王元昌,icon_fauna,[],《唐朝名画录》,序·国朝亲王,善画马，笔踪妙绝，后人无见。
 icon_falcon,"{""zh"": ""鹰鹘""}",,汉王元昌,icon_fauna,[],《唐朝名画录》,序·国朝亲王,画鹰鹘，雉兔，现在人间，佳手降叹矣。
 icon_pheasant_rabbit,"{""zh"": ""雉兔""}",,汉王元昌,icon_fauna,[],《唐朝名画录》,序·国朝亲王,画鹰鹘，雉兔，现在人间，佳手降叹矣。

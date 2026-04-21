@@ -1,4 +1,4 @@
-cv_id,person_ref,person_name_cn,entry_mode,official_title,rank,tenure,location_ref,time_ref,event_type,source_book,source.chapter,originalsource_sentence
+cv_id,person_ref,person_name_cn,entry_mode,official_title,rank,tenure,location_ref,time_ref,event_type,source_book,source_chapter,source_text
 cv_yao_zui_01,meso_yao_zui,姚最,,,,,loc_changan,,Travel,《续画品》,注释,年十九随僧垣入关
 cv_yao_zui_02,meso_yao_zui,姚最,Examination,麟趾殿学士,,,loc_changan,,Official_Post,《续画品》,注释,"世宗盛聚学徒, 校书于麟趾殿, 最亦预为学士"
 cv_yao_zui_03,meso_yao_zui,姚最,,齐王宪府水曹参军,,,loc_changan,,Official_Post,《续画品》,注释,"俄授齐王宪府水曹参军, 掌记室事"

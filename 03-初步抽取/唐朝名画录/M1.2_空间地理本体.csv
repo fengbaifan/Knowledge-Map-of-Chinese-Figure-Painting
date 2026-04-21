@@ -1,4 +1,4 @@
-﻿location_id,name,type,historical_names,modern_address,coordinates,source_book,source.chapter,originalsource_sentence
+﻿location_id,name,type,historical_names,modern_address,coordinates,source_book,source_chapter,source_text
 loc_0001,潞府,Admin_Region,上党郡; 潞州,山西省长治市,"36.1954, 113.1163",《唐朝名画录》,国朝亲王三人 物理页面 第 1 页,善画雀蝉，驴子；应制明皇潞府<sup>〔3〕</sup> 《九瑞应图》，实造神极妙。
 loc_0002,东京,City,东都; 洛阳,河南省洛阳市,"34.6181, 112.4540",《唐朝名画录》,神品上一人 物理页面 第 2 页,"吴道玄字道子,东京阳翟<sup>〔1〕</sup>人也,少孤贫。天授之性,年未弱冠,穷丹青之妙。浪迹东洛,时明皇知其名,召入內供奉<sup>〔2〕</sup>。开元中驾幸东洛,吴生与裴旻<sup>〔3〕</sup>将军、张旭<sup>〔4〕</sup>长史相遇,各陈其能。时将军裴旻厚以金帛,召致道子,于东都天宫寺<sup>〔5〕</sup>,为其所亲,将施绘事。道子封还金帛,一无所授。谓旻曰:“闻裴将军旧矣,为舞剑一曲,足以当惠。观其壮气,可助挥毫。”旻因墨縗<sup>〔6〕</sup>为道子舞剑。"
 loc_0003,阳翟,Admin_Region,禹州,今河南禹县,"34.1480, 113.4880",《唐朝名画录》,神品上一人 物理页面 第 2 页,"吴道玄字道子,东京阳翟<sup>〔1〕</sup>人也,少孤贫。天授之性,年未弱冠,穷丹青之妙。浪迹东洛,时明皇知其名,召入內供奉<sup>〔2〕</sup>。开元中驾幸东洛,吴生与裴旻<sup>〔3〕</sup>将军、张旭<sup>〔4〕</sup>长史相遇,各陈其能。时将军裴旻厚以金帛,召致道子,于东都天宫寺<sup>〔5〕</sup>,为其所亲,将施绘事。道子封还金帛,一无所授。谓旻曰:“闻裴将军旧矣,为舞剑一曲,足以当惠。观其壮气,可助挥毫。”旻因墨縗<sup>〔6〕</sup>为道子舞剑。"

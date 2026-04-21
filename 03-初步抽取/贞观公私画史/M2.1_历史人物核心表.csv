@@ -1,4 +1,4 @@
-person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,originalsource_sentence,official_title
+person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,source_text,official_title
 pers_5b00e4b0,Author/Official,裴孝源,,,,,,Tang,,《贞观公私画史》,序; 提要,《贞观公私画史》一卷，唐裴孝源撰...中书舍人裴孝源,中書舍人
 pers_8b91bb52,Donor,褚安福,,,,,,Tang,,《贞观公私画史》,序; 提要,四卷褚安福進,
 pers_49c5f897,Painter,陸探微,,,,,,Song,,《贞观公私画史》,画目,**右十三卷是陸探微真跡，隋朝官本 。**,

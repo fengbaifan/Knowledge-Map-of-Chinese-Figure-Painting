@@ -1,4 +1,4 @@
-﻿cv_id,person_ref,entry_mode,official_title,rank,tenure,location_ref,time_ref,event_type,source_book,source_chapter,original_source_sentence
+﻿cv_id,person_ref,entry_mode,official_title,rank,tenure,location_ref,time_ref,event_type,source_book,source_chapter,source_text
 cv_王瓘_ca7a,meso_王瓘,应召,,,period_song,汴京,period_song,恩遇,《圣朝名画评》,卷一·人物门,末年，石中令以禮召瓘畫昭報寺廊壁，厚酬金幣(今西京石家寺壁見在)
 cv_王靄_17e0,meso_王靄,,翰林待詔,,period_song,,period_song,任官,《圣朝名画评》,卷一·人物门,後使江表，潛寫宋齊丘、韓熙載、林仁肇的畫像，稱旨，改翰林待詔
 cv_王靄_fbad,meso_王靄,,待詔,,period_song,,period_song,任官,《圣朝名画评》,卷一·人物门,而本書稱歸後即為待詔

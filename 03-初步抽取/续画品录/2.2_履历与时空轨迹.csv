@@ -1,4 +1,4 @@
-﻿cv_id,person_ref,person_name,entry_mode,entry_mode_cn,official_title,rank,tenure,location_ref,time_ref,event_type,event_type_cn,source_book,source_chapter,originalsource_sentence
+﻿cv_id,person_ref,person_name,entry_mode,entry_mode_cn,official_title,rank,tenure,location_ref,time_ref,event_type,event_type_cn,source_book,source_chapter,source_text
 cv_d6ed656e,meso_d2a6a3fd,萧绎,Inheritance,世袭/恩荫,殿下 (Prince),Nobility,{},loc_e0c371cc,period_liang,Official_Post,任官/任职,《续画品录》,序,湘东殿下
 cv_8f99e463,meso_044fb061,曹不興,Unknown,未知,Active in Region,,{},loc_e8ce7c9c,period_wu,Travel,游历/居留,《续画品录》,中品上,曹不興 (吴)、顧凱之 (東晉)、戴逵
 cv_4cf97407,meso_dd33632f,顧凱之,Unknown,未知,Active in Region,,{},loc_e8ce7c9c,period_eastern_jin,Travel,游历/居留,《续画品录》,中品上,曹不興 (吴)、顧凱之 (東晉)、戴逵

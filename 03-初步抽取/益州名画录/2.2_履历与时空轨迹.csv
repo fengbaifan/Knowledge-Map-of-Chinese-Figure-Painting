@@ -1,4 +1,4 @@
-﻿cv_id,person_ref,person_name_cn,entry_mode,official_title,rank,tenure,location_ref,time_ref,event_type,source_book,source_chapter,originalsource_sentence
+﻿cv_id,person_ref,person_name_cn,entry_mode,official_title,rank,tenure,location_ref,time_ref,event_type,source_book,source_chapter,source_text
 cv_71369c8c,P_67096,孫位,Relocation,,,,成都,广明 (880-881),Trajectory,《益州名画录》,卷上,"僖宗皇帝車駕在蜀, 自京入蜀, 號會稽山人。"
 cv_d952f03e,P_67096,孫位,Appointment,處士,,,,光启 (885-888),Official_Post,《益州名画录》,卷上,"不知其後有何所遇, 改名遇矣。"
 cv_5f64517e,P_45855,趙公祐,Relocation,,,,成都,宝历 (825-827),Trajectory,《益州名画录》,卷上,"公祐者, 長安人也, 寶曆中寓居蜀城。"

@@ -1,4 +1,4 @@
-location_id,historical_names,modern_address,coordinates,source_book,source_chapter,original_source_sentence
+location_id,historical_names,modern_address,coordinates,source_book,source_chapter,source_text
 loc_024f5f53,"[{""name"": ""洞庭山水月禪院"", ""period"": ""period_song""}]",江苏省苏州市太湖洞庭山,"31.11, 120.35",《圣朝名画评》,卷三 屋木門第六,”又可說人，如蘇舜欽《蘇州洞庭山水月禪院記》：“數僧宴坐，寂嘿於泉石之間，引而與語，殊無纖介世俗間氣韻。
 loc_b07d3ac6,"[{""name"": ""含元殿"", ""period"": ""period_song""}]",陕西省西安市(唐大明宫),"34.3416, 108.9398",《圣朝名画评》,卷三 屋木門第六,唐李華《含元殿賦》：“天華爽霽，朗日朝徹。
 loc_a87b6642,"[{""name"": ""西京石家寺"", ""period"": ""period_song""}]",河南省洛阳市,"34.6187, 112.4540",《圣朝名画评》,卷三 人物門第一<sup>〔1〕</sup>,末年，石中令以禮召瓘畫昭報寺廊壁，厚酬金幣(今西京石家寺壁見在)。

@@ -1,4 +1,4 @@
-﻿person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,originalsource_sentence
+﻿person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,source_text
 meso_d2a6a3fd,Painter,萧绎,,,['湘东殿下'],,,period_liang,,《续画品录》,序,湘东殿下
 meso_fb957750,Painter,劉褒,,,,,,period_eastern_han,,《续画品录》,上一品,劉褒、桓範、趙岐
 meso_b09844eb,Painter,桓範,,,,,,period_three_kingdoms_wei,,《续画品录》,上一品,劉褒、桓範、趙岐

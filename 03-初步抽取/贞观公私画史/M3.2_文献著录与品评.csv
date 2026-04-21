@@ -1,4 +1,4 @@
-﻿lit_id,target_ref,target_type,source_book,source_chapter,author_ref,quality_rank,quote,originalsource_sentence,literature_ref,evaluation_type
+﻿lit_id,target_ref,target_type,source_book,source_chapter,author_ref,quality_rank,quote,source_text,literature_ref,evaluation_type
 lit_b88e9c10,顧慶像,Work,《贞观公私画史》,第一卷画目,裴孝源,著录,《梁太清目》所無,顧慶像（《梁太清目》所無）,《梁太清目》,Not Recorded
 lit_d110eafd,勛臣像,Work,《贞观公私画史》,第一卷画目,裴孝源,著录,張彥遠《名畫記》又有《王榮像》、《十一人圖》、《劉季之像》、《蕭史圖》、《服乘箴圖》、《鸂鶒圖》,勛臣像（張彥遠《名畫記》又有《王榮像》、《十一人圖》、《劉季之像》、《蕭史圖》、《服乘箴圖》、《鸂鶒圖》）,《历代名画记》,Comparison
 lit_94cf4a30,宋明帝像,Work,《贞观公私画史》,第一卷画目,裴孝源,真迹,右十三卷是陸探微真跡，隋朝官本 。,右十三卷是陸探微真跡，隋朝官本 。,《贞观公私画史》,Catalog/Authentication

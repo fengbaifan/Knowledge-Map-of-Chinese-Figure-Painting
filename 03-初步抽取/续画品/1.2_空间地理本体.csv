@@ -1,4 +1,4 @@
-﻿"location_id","historical_names","modern_address","coordinates","source_book","source.chapter","originalsource_sentence"
+﻿"location_id","historical_names","modern_address","coordinates","source_book","source_chapter","source_text"
 "loc_jiulou","[{""name"": ""九楼"", ""period"": ""period_ancient""}]","神话/宫廷建筑(泛指高楼)","34.66, 112.43","《续画品》","正文序","故九楼之上, 备表仙灵; 四门之墉, 广图贤圣。云阁兴拜伏之感, 掖庭致聘远之别。"
 "loc_simen_yong","[{""name"": ""四门之墉"", ""period"": ""period_ancient""}]","明堂门墙(都城建筑)","34.66, 112.43","《续画品》","正文序","故九楼之上, 备表仙灵; 四门之墉, 广图贤圣。云阁兴拜伏之感, 掖庭致聘远之别。"
 "loc_yunge","[{""name"": ""云阁"", ""period"": ""period_eastern_han""}]","汉代洛阳南宫云台","34.66, 112.43","《续画品》","正文序","故九楼之上, 备表仙灵; 四门之墉, 广图贤圣。云阁兴拜伏之感, 掖庭致聘远之别。"

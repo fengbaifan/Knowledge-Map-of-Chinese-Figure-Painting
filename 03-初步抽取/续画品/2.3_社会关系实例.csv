@@ -1,4 +1,4 @@
-rel_id,source_id,source_name_cn,target_id,target_name_cn,relation_type,formal_name,source_book,source.chapter,originalsource_sentence
+rel_id,source_id,source_name_cn,target_id,target_name_cn,relation_type,formal_name,source_book,source_chapter,source_text
 rel_yaozui_01,meso_yao_zui,姚最,meso_yao_sengyuan,姚僧垣,Kinship,父子,《续画品》,注释,年十九随僧垣入关... 姚僧垣... 为最之父亲
 rel_yaozui_02,meso_yao_zui,姚最,meso_yuwen_xian,宇文宪,Official,君臣,《续画品》,注释,"俄授齐王宪府水曹参军, 掌记室事, 特为宪所礼接"
 rel_yaozui_03,meso_yao_zui,姚最,meso_yuwen_xiu,宇文秀,Official,君臣,《续画品》,注释,俄转蜀王秀友... 迁秀府司马

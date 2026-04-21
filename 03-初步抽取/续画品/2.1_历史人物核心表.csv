@@ -1,4 +1,4 @@
-person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source.chapter,originalsource_sentence
+person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,source_text
 meso_yao_zui,Scholar,姚最,士会,,"[""北绛郡公""]","吴兴武康","{""birth"": 535, ""death"": 602, ""period_ref"": ""period_chen""}","period_chen","{""Wikidata"": ""Q11082695""}","《续画品》","序/注释","(注释)最字士会, 幼而聪敏, 及長, 博通經史, 尤好著述...最竟坐誅, 时年六十七...夫丹青妙極, 未易言尽...但事有否泰, 人經盛衰。或弱龄而价重, 或壯齿而声道。"
 meso_xiao_yi,Painter,萧绎,世诚,,"[""小字七符"", ""湘东郡王"", ""梁元帝"", ""湘东殿下""]","南兰陵","{""birth"": 508, ""death"": 555, ""period_ref"": ""period_liang""}","period_liang","{""CBDB"": ""32145"", ""Wikidata"": ""Q7269""}","《续画品》","湘东殿下","右天挺命世,幼稟生知,学穷性表,心师造化,非复景行,所能希涉。 画有“六法”,真仙为难。 王于象人,特尽神妙,心敏手运,不加点治。 斯乃听訟部領之隙,文談众艺之余,时复遇物援毫,造次惊絕。 足使荀、衛閣笔,袁、陆韬翰。 圖制虽寡,声聞于外,非复討論木訥,可得而称焉。"
 meso_liu_pu,Painter,刘璞,,,,,"{""period_ref"": ""period_song""}","period_song","", "《续画品》","刘璞","右胤祖之子,少習門風,至老笔法不渝前制。 体韻精研,亞于其父。 信代有其人,茲名不墮矣!"

@@ -1,4 +1,4 @@
-rel_id,source_id,target_id,relation_type,formal_name,source_book,source.chapter,originalsource_sentence
+rel_id,source_id,target_id,relation_type,formal_name,source_book,source_chapter,source_text
 rel_hanwang_01,汉王元昌,李渊,Kinship,子,《唐朝名画录》,序 物理页面第1页,"汉王元昌 (注: 高祖李渊第七子)"
 rel_jiangduwang_01,江都王,李世民,Kinship,侄,《唐朝名画录》,序 物理页面第1页,"江都王 (注: 太宗李世民侄绪)"
 rel_jiangduwang_02,江都王,明皇,Patronage,应制,《唐朝名画录》,序 物理页面第1页,"应制明皇潞府 《九瑞应图》"

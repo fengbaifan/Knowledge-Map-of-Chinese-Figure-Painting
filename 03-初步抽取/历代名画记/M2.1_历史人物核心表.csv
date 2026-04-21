@@ -1,4 +1,4 @@
-﻿person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,original_source_sentence
+﻿person_id,primary_role,name,courtesy_name,pseudonym,other_names,choronym,birth_death,period_ref,authority_ids,source_book,source_chapter,source_text
 meso_史皇,Painter,史皇,,,,,{},轩辕时,{},《历代名画记》,卷四 轩辕时,史皇，黄帝之臣也。始善图画。创制垂法，体象天地，功侔造化。首冠群工，不亦宜哉！见《世本》，与苍颉同时。
 meso_封膜,Painter,封膜,,,,周时,{},周,{},《历代名画记》,卷四 周,封膜，周时人，善画。见《穆天子传》。郭璞云：“姓封，名膜。”
 meso_敬君,Painter,敬君,,,,,{},齐,{},《历代名画记》,卷四 齐,敬君者，善画。齐王起九重台，召敬君画之。敬君久不得归，思其妻，乃画妻对之。齐王知其妻美，与钱百万，纳其妻。刘向《说苑》具载。

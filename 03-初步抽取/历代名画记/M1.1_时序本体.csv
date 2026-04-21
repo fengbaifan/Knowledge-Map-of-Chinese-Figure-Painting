@@ -1,4 +1,4 @@
-period_id,name,time_range,dynastic_info,source_book,source.chapter,originalsource_sentence
+period_id,name,time_range,dynastic_info,source_book,source_chapter,source_text
 period_youyu,有虞,"{""start"": -2255, ""end"": -2205}",有虞,《历代名画记》,卷一·叙画之源流,洎乎有虞作绘，绘画明焉。
 period_han_wudi,汉武,"{""start"": -141, ""end"": -87}",汉,《历代名画记》,卷一·叙画之兴废,汉武创置秘阁，以聚图书。
 period_macro_upper_ancient,上古,"{""start"": 25, ""end"": 280}",汉魏、三国,《历代名画记》,卷二·论名价品第,以汉魏、三国为上古，则赵岐、刘褒、蔡邕、张衡、已上四人后汉。曹髦、杨脩、桓范、徐邈、已上四人魏。曹不兴、吴。诸葛亮蜀。之流是也。
